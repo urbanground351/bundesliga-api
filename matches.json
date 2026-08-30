@@ -1,0 +1,104 @@
+{
+  "last_updated": "2026-08-30T15:08:37.163477",
+  "source": "ESPN Açık API (La Liga)",
+  "matches": [
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Madrid",
+      "away": "Málaga",
+      "time": "18:00",
+      "date": "30.08.2026"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Deportivo",
+      "away": "Valencia",
+      "time": "20:30",
+      "date": "30.08.2026"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Celta Vigo",
+      "away": "Athletic Club",
+      "time": "22:30",
+      "date": "30.08.2026"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Osasuna",
+      "away": "Getafe",
+      "time": "20:30",
+      "date": "31.08.2026"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Barcelona",
+      "away": "Rayo Vallecano",
+      "time": "22:30",
+      "date": "31.08.2026"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Sociedad",
+      "away": "Celta Vigo",
+      "time": "22:00",
+      "date": "03.09.2026"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Betis",
+      "away": "Real Madrid",
+      "time": "22:00",
+      "date": "04.09.2026"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Athletic Club",
+      "away": "Atlético Madrid",
+      "time": "17:15",
+      "date": "05.09.2026"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Rayo Vallecano",
+      "away": "Racing Santander",
+      "time": "19:30",
+      "date": "05.09.2026"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Villarreal",
+      "away": "Deportivo",
+      "time": "22:00",
+      "date": "05.09.2026"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Valencia",
+      "away": "Barcelona",
+      "time": "17:15",
+      "date": "06.09.2026"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Alavés",
+      "away": "Osasuna",
+      "time": "19:30",
+      "date": "06.09.2026"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Málaga",
+      "away": "Levante",
+      "time": "19:30",
+      "date": "06.09.2026"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Espanyol",
+      "away": "Sevilla",
+      "time": "22:00",
+      "date": "06.09.2026"
+    }
+  ]
+}
