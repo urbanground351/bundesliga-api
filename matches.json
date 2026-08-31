@@ -1,104 +1,150 @@
 {
-  "last_updated": "2026-08-30T15:08:37.163477",
-  "source": "ESPN Açık API (La Liga)",
+  "last_updated": "2026-08-31T23:11:10.200084",
+  "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
-      "league": "İspanya La Liga",
-      "home": "Real Madrid",
-      "away": "Málaga",
-      "time": "18:00",
-      "date": "30.08.2026"
+      "league": "Almanya Bundesliga",
+      "home": "VfB Stuttgart",
+      "away": "1. FC Köln",
+      "time": "21:30",
+      "date": "04.09.2026",
+      "odds": "MS1: 1.44 | X: 4.80 | MS2: 5.80"
     },
     {
-      "league": "İspanya La Liga",
-      "home": "Deportivo",
-      "away": "Valencia",
-      "time": "20:30",
-      "date": "30.08.2026"
+      "league": "Almanya Bundesliga",
+      "home": "TSG Hoffenheim",
+      "away": "Borussia Dortmund",
+      "time": "16:30",
+      "date": "05.09.2026",
+      "odds": "MS1: 2.75 | X: 3.80 | MS2: 2.23"
     },
     {
-      "league": "İspanya La Liga",
-      "home": "Celta Vigo",
-      "away": "Athletic Club",
-      "time": "22:30",
-      "date": "30.08.2026"
+      "league": "Almanya Bundesliga",
+      "home": "Bayer Leverkusen",
+      "away": "1. FC Union Berlin",
+      "time": "16:30",
+      "date": "05.09.2026",
+      "odds": "MS1: 1.45 | X: 4.60 | MS2: 6.10"
     },
     {
-      "league": "İspanya La Liga",
-      "home": "Osasuna",
-      "away": "Getafe",
-      "time": "20:30",
-      "date": "31.08.2026"
+      "league": "Almanya Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "SC Freiburg",
+      "time": "16:30",
+      "date": "05.09.2026",
+      "odds": "MS1: 3.15 | X: 3.60 | MS2: 2.07"
     },
     {
-      "league": "İspanya La Liga",
-      "home": "Barcelona",
-      "away": "Rayo Vallecano",
-      "time": "22:30",
-      "date": "31.08.2026"
+      "league": "Almanya Bundesliga",
+      "home": "Borussia Mönchengladbach",
+      "away": "Elversberg",
+      "time": "16:30",
+      "date": "05.09.2026",
+      "odds": "MS1: 1.76 | X: 3.90 | MS2: 4.10"
     },
     {
-      "league": "İspanya La Liga",
-      "home": "Real Sociedad",
-      "away": "Celta Vigo",
-      "time": "22:00",
-      "date": "03.09.2026"
+      "league": "Almanya Bundesliga",
+      "home": "Werder Bremen",
+      "away": "RB Leipzig",
+      "time": "16:30",
+      "date": "05.09.2026",
+      "odds": "MS1: 3.80 | X: 3.95 | MS2: 1.79"
     },
     {
-      "league": "İspanya La Liga",
-      "home": "Real Betis",
-      "away": "Real Madrid",
-      "time": "22:00",
-      "date": "04.09.2026"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Athletic Club",
-      "away": "Atlético Madrid",
-      "time": "17:15",
-      "date": "05.09.2026"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Rayo Vallecano",
-      "away": "Racing Santander",
+      "league": "Almanya Bundesliga",
+      "home": "FC Schalke 04",
+      "away": "Bayern Munich",
       "time": "19:30",
-      "date": "05.09.2026"
+      "date": "05.09.2026",
+      "odds": "MS1: 14.00 | X: 8.00 | MS2: 1.15"
     },
     {
-      "league": "İspanya La Liga",
-      "home": "Villarreal",
-      "away": "Deportivo",
-      "time": "22:00",
-      "date": "05.09.2026"
+      "league": "Almanya Bundesliga",
+      "home": "Hamburger SV",
+      "away": "Mainz 05",
+      "time": "16:30",
+      "date": "06.09.2026",
+      "odds": "MS1: 2.70 | X: 3.50 | MS2: 2.40"
     },
     {
-      "league": "İspanya La Liga",
-      "home": "Valencia",
-      "away": "Barcelona",
-      "time": "17:15",
-      "date": "06.09.2026"
+      "league": "Almanya Bundesliga",
+      "home": "Eintracht Frankfurt",
+      "away": "FC Augsburg",
+      "time": "18:30",
+      "date": "06.09.2026",
+      "odds": "MS1: 1.88 | X: 3.90 | MS2: 3.55"
     },
     {
-      "league": "İspanya La Liga",
-      "home": "Alavés",
-      "away": "Osasuna",
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Union Berlin",
+      "away": "FC Schalke 04",
+      "time": "21:30",
+      "date": "11.09.2026",
+      "odds": "MS1: 1.95 | X: 3.80 | MS2: 3.35"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Borussia Dortmund",
+      "away": "SC Paderborn 07",
+      "time": "16:30",
+      "date": "12.09.2026",
+      "odds": "MS1: 1.18 | X: 7.00 | MS2: 13.00"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "SC Freiburg",
+      "away": "Borussia Mönchengladbach",
+      "time": "16:30",
+      "date": "12.09.2026",
+      "odds": "MS1: 1.90 | X: 3.65 | MS2: 3.65"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "FC Augsburg",
+      "away": "Bayer Leverkusen",
+      "time": "16:30",
+      "date": "12.09.2026",
+      "odds": "MS1: 4.35 | X: 4.20 | MS2: 1.66"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "TSG Hoffenheim",
+      "away": "VfB Stuttgart",
+      "time": "16:30",
+      "date": "12.09.2026",
+      "odds": "MS1: 2.25 | X: 3.75 | MS2: 2.75"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Mainz 05",
+      "away": "Eintracht Frankfurt",
+      "time": "16:30",
+      "date": "12.09.2026",
+      "odds": "MS1: 2.23 | X: 3.60 | MS2: 2.90"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Köln",
+      "away": "Werder Bremen",
       "time": "19:30",
-      "date": "06.09.2026"
+      "date": "12.09.2026",
+      "odds": "MS1: 2.12 | X: 3.65 | MS2: 3.05"
     },
     {
-      "league": "İspanya La Liga",
-      "home": "Málaga",
-      "away": "Levante",
-      "time": "19:30",
-      "date": "06.09.2026"
+      "league": "Almanya Bundesliga",
+      "home": "RB Leipzig",
+      "away": "Hamburger SV",
+      "time": "16:30",
+      "date": "13.09.2026",
+      "odds": "MS1: 1.32 | X: 5.40 | MS2: 7.50"
     },
     {
-      "league": "İspanya La Liga",
-      "home": "Espanyol",
-      "away": "Sevilla",
-      "time": "22:00",
-      "date": "06.09.2026"
+      "league": "Almanya Bundesliga",
+      "home": "Elversberg",
+      "away": "Bayern Munich",
+      "time": "18:30",
+      "date": "13.09.2026",
+      "odds": "MS1: 17.00 | X: 9.00 | MS2: 1.12"
     }
   ]
 }
