@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T23:15:03.975662",
+  "last_updated": "2026-09-02T23:27:54.666174",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -40,7 +40,7 @@
       "away": "Elversberg",
       "time": "16:30",
       "date": "05.09.2026",
-      "odds": "MS1: 1.77 | X: 3.90 | MS2: 4.00"
+      "odds": "MS1: 1.76 | X: 3.90 | MS2: 4.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -144,7 +144,7 @@
       "away": "Bayern Munich",
       "time": "18:30",
       "date": "13.09.2026",
-      "odds": "MS1: 14.00 | X: 8.00 | MS2: 1.15"
+      "odds": "MS1: 14.00 | X: 8.00 | MS2: 1.14"
     }
   ]
 }
