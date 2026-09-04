@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-09-04T07:47:19.715105",
+  "last_updated": "2026-09-04T07:57:34.235878",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
+    {
+      "league": "Almanya Bundesliga",
+      "home": "TSG 1899 Hoffenheim (W)",
+      "away": "Bayer Leverkusen (W)",
+      "time": "19:30",
+      "date": "04.09.2026",
+      "odds": "MS1: 3.50 | X: 3.60 | MS2: 1.78"
+    },
     {
       "league": "Almanya Bundesliga",
       "home": "VfB Stuttgart",
@@ -24,7 +32,7 @@
       "away": "1. FC Union Berlin",
       "time": "16:30",
       "date": "05.09.2026",
-      "odds": "MS1: 1.41 | X: 4.80 | MS2: 6.50"
+      "odds": "MS1: 1.40 | X: 4.90 | MS2: 6.50"
     },
     {
       "league": "Almanya Bundesliga",
