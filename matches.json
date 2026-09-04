@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T19:26:24.871561",
+  "last_updated": "2026-09-04T19:38:55.293098",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -8,7 +8,15 @@
       "away": "1. FC Köln",
       "time": "21:32",
       "date": "04.09.2026",
-      "odds": "MS1: 1.17 | X: 6.40 | MS2: 16.00"
+      "odds": "MS1: 1.21 | X: 5.60 | MS2: 13.00"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Hamburger SV (W)",
+      "away": "RB Leipzig (W)",
+      "time": "13:00",
+      "date": "05.09.2026",
+      "odds": "MS1: 3.15 | X: 3.30 | MS2: 2.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -16,7 +24,7 @@
       "away": "Borussia Dortmund",
       "time": "16:30",
       "date": "05.09.2026",
-      "odds": "MS1: 2.88 | X: 3.80 | MS2: 2.16"
+      "odds": "MS1: 2.88 | X: 3.85 | MS2: 2.15"
     },
     {
       "league": "Almanya Bundesliga",
@@ -112,7 +120,7 @@
       "away": "VfB Stuttgart",
       "time": "16:30",
       "date": "12.09.2026",
-      "odds": "MS1: 2.20 | X: 3.80 | MS2: 2.80"
+      "odds": "MS1: 2.23 | X: 3.80 | MS2: 2.80"
     },
     {
       "league": "Almanya Bundesliga",
