@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T13:28:59.142579",
+  "last_updated": "2026-09-05T13:40:23.947627",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -12,43 +12,43 @@
     },
     {
       "league": "Almanya Bundesliga",
+      "home": "TSG Hoffenheim",
+      "away": "Borussia Dortmund",
+      "time": "16:30",
+      "date": "05.09.2026",
+      "odds": "MS1: 2.43 | X: 3.70 | MS2: 2.50"
+    },
+    {
+      "league": "Almanya Bundesliga",
       "home": "Bayer Leverkusen",
       "away": "1. FC Union Berlin",
       "time": "16:30",
       "date": "05.09.2026",
-      "odds": "MS1: 1.34 | X: 5.10 | MS2: 7.50"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "TSG Hoffenheim",
-      "away": "Borussia Dortmund",
-      "time": "16:32",
-      "date": "05.09.2026",
-      "odds": "MS1: 2.40 | X: 3.80 | MS2: 2.55"
+      "odds": "MS1: 1.12 | X: 8.50 | MS2: 16.00"
     },
     {
       "league": "Almanya Bundesliga",
       "home": "SC Paderborn 07",
       "away": "SC Freiburg",
-      "time": "16:32",
+      "time": "16:30",
       "date": "05.09.2026",
-      "odds": "MS1: 3.70 | X: 3.70 | MS2: 1.89"
+      "odds": "MS1: 3.85 | X: 3.65 | MS2: 1.83"
     },
     {
       "league": "Almanya Bundesliga",
       "home": "Borussia Mönchengladbach",
       "away": "Elversberg",
-      "time": "16:32",
+      "time": "16:31",
       "date": "05.09.2026",
-      "odds": "MS1: 1.81 | X: 3.90 | MS2: 3.80"
+      "odds": "MS1: 1.86 | X: 3.65 | MS2: 3.70"
     },
     {
       "league": "Almanya Bundesliga",
       "home": "Werder Bremen",
       "away": "RB Leipzig",
-      "time": "16:32",
+      "time": "16:31",
       "date": "05.09.2026",
-      "odds": "MS1: 4.20 | X: 4.10 | MS2: 1.70"
+      "odds": "MS1: 2.38 | X: 3.70 | MS2: 2.55"
     },
     {
       "league": "Almanya Bundesliga",
