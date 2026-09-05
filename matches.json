@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T20:52:07.541747",
+  "last_updated": "2026-09-05T21:03:52.812410",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -17,6 +17,14 @@
       "time": "16:30",
       "date": "06.09.2026",
       "odds": "MS1: 2.80 | X: 3.50 | MS2: 2.33"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Bayern Munich (W)",
+      "away": "SC Freiburg (W)",
+      "time": "17:00",
+      "date": "06.09.2026",
+      "odds": "MS1: 1.01 | X: 11.50 | MS2: 21.00"
     },
     {
       "league": "Almanya Bundesliga",
