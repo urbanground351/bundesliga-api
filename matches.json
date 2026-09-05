@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T22:02:13.307825",
+  "last_updated": "2026-09-05T22:18:07.874482",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -44,14 +44,6 @@
     },
     {
       "league": "Almanya Bundesliga",
-      "home": "Mainz 05",
-      "away": "Eintracht Frankfurt",
-      "time": "16:30",
-      "date": "12.09.2026",
-      "odds": "MS1: 2.10 | X: 3.60 | MS2: 3.15"
-    },
-    {
-      "league": "Almanya Bundesliga",
       "home": "Borussia Dortmund",
       "away": "SC Paderborn 07",
       "time": "16:30",
@@ -81,6 +73,14 @@
       "time": "16:30",
       "date": "12.09.2026",
       "odds": "MS1: 2.23 | X: 3.80 | MS2: 2.80"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Mainz 05",
+      "away": "Eintracht Frankfurt",
+      "time": "16:30",
+      "date": "12.09.2026",
+      "odds": "MS1: 2.10 | X: 3.60 | MS2: 3.15"
     },
     {
       "league": "Almanya Bundesliga",
