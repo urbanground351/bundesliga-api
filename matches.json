@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-09-05T20:17:46.836998",
+  "last_updated": "2026-09-05T20:30:49.008240",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
+    {
+      "league": "Almanya Bundesliga",
+      "home": "VfL Wolfsburg (W)",
+      "away": "Werder Bremen (W)",
+      "time": "15:00",
+      "date": "06.09.2026",
+      "odds": "MS1: 1.38 | X: 4.40 | MS2: 5.80"
+    },
     {
       "league": "Almanya Bundesliga",
       "home": "Hamburger SV",
