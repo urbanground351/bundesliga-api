@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-09-06T13:44:46.187600",
+  "last_updated": "2026-09-06T13:55:22.475336",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "VfL Wolfsburg (W)",
-      "away": "Werder Bremen (W)",
-      "time": "15:00",
-      "date": "06.09.2026",
-      "odds": "MS1: 18.00 | X: 3.80 | MS2: 1.26"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "Hamburger SV",
       "away": "Mainz 05",
       "time": "16:30",
       "date": "06.09.2026",
-      "odds": "MS1: 3.25 | X: 3.35 | MS2: 2.08"
+      "odds": "MS1: 7.00 | X: 4.20 | MS2: 1.43"
     },
     {
       "league": "Almanya Bundesliga",
@@ -52,6 +44,14 @@
     },
     {
       "league": "Almanya Bundesliga",
+      "home": "Mainz 05",
+      "away": "Eintracht Frankfurt",
+      "time": "16:30",
+      "date": "12.09.2026",
+      "odds": "MS1: 2.10 | X: 3.70 | MS2: 3.15"
+    },
+    {
+      "league": "Almanya Bundesliga",
       "home": "Borussia Dortmund",
       "away": "SC Paderborn 07",
       "time": "16:30",
@@ -81,14 +81,6 @@
       "time": "16:30",
       "date": "12.09.2026",
       "odds": "MS1: 2.23 | X: 3.80 | MS2: 2.80"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Mainz 05",
-      "away": "Eintracht Frankfurt",
-      "time": "16:30",
-      "date": "12.09.2026",
-      "odds": "MS1: 2.10 | X: 3.70 | MS2: 3.15"
     },
     {
       "league": "Almanya Bundesliga",
