@@ -1,30 +1,22 @@
 {
-  "last_updated": "2026-09-06T15:16:08.687874",
+  "last_updated": "2026-09-06T15:29:29.747336",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Hamburger SV",
-      "away": "Mainz 05",
-      "time": "16:30",
-      "date": "06.09.2026",
-      "odds": "Oran Yok"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "Bayern Munich (W)",
       "away": "SC Freiburg (W)",
       "time": "17:00",
       "date": "06.09.2026",
-      "odds": "Oran Yok"
+      "odds": "MS1: 0.00 | X: 13.00 | MS2: 0.00"
     },
     {
       "league": "Almanya Bundesliga",
       "home": "Eintracht Frankfurt",
       "away": "FC Augsburg",
-      "time": "18:30",
+      "time": "18:32",
       "date": "06.09.2026",
-      "odds": "MS1: 1.84 | X: 3.95 | MS2: 3.60"
+      "odds": "MS1: 1.84 | X: 4.10 | MS2: 3.55"
     },
     {
       "league": "Almanya Bundesliga",
