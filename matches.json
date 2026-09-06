@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T16:21:59.863599",
+  "last_updated": "2026-09-06T16:35:25.351842",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -8,15 +8,23 @@
       "away": "FC Augsburg",
       "time": "18:30",
       "date": "06.09.2026",
-      "odds": "MS1: 1.26 | X: 5.10 | MS2: 11.00"
+      "odds": "MS1: 3.65 | X: 3.20 | MS2: 2.02"
     },
     {
       "league": "Almanya Bundesliga",
       "home": "1. FC Nürnberg (W)",
       "away": "VfB Stuttgart (W)",
-      "time": "19:30",
+      "time": "19:32",
       "date": "06.09.2026",
-      "odds": "MS1: 4.10 | X: 4.10 | MS2: 1.58"
+      "odds": "MS1: 4.20 | X: 4.00 | MS2: 1.58"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Union Berlin (W)",
+      "away": "Eintracht Frankfurt (W)",
+      "time": "19:00",
+      "date": "07.09.2026",
+      "odds": "MS1: 3.85 | X: 3.85 | MS2: 1.66"
     },
     {
       "league": "Almanya Bundesliga",
