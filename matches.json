@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T10:47:57.974194",
+  "last_updated": "2026-09-07T10:58:48.362075",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -145,6 +145,14 @@
       "time": "18:30",
       "date": "20.09.2026",
       "odds": "MS1: 1.79 | X: 3.75 | MS2: 4.00"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "TSG Hoffenheim",
+      "time": "20:30",
+      "date": "20.09.2026",
+      "odds": "MS1: 4.30 | X: 4.25 | MS2: 1.66"
     }
   ]
 }
