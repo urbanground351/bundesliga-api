@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T10:34:07.644301",
+  "last_updated": "2026-09-07T10:47:57.974194",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -17,14 +17,6 @@
       "time": "21:30",
       "date": "11.09.2026",
       "odds": "MS1: 2.07 | X: 3.75 | MS2: 3.10"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Mainz 05",
-      "away": "Eintracht Frankfurt",
-      "time": "16:30",
-      "date": "12.09.2026",
-      "odds": "MS1: 1.95 | X: 3.90 | MS2: 3.30"
     },
     {
       "league": "Almanya Bundesliga",
@@ -60,6 +52,14 @@
     },
     {
       "league": "Almanya Bundesliga",
+      "home": "Mainz 05",
+      "away": "Eintracht Frankfurt",
+      "time": "16:30",
+      "date": "12.09.2026",
+      "odds": "MS1: 1.95 | X: 3.90 | MS2: 3.30"
+    },
+    {
+      "league": "Almanya Bundesliga",
       "home": "1. FC Köln",
       "away": "Werder Bremen",
       "time": "19:30",
@@ -81,6 +81,70 @@
       "time": "18:30",
       "date": "13.09.2026",
       "odds": "MS1: 14.00 | X: 8.50 | MS2: 1.14"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Bayern Munich",
+      "away": "1. FC Union Berlin",
+      "time": "21:30",
+      "date": "18.09.2026",
+      "odds": "MS1: 1.12 | X: 9.00 | MS2: 16.00"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Werder Bremen",
+      "away": "FC Augsburg",
+      "time": "16:30",
+      "date": "19.09.2026",
+      "odds": "MS1: 2.25 | X: 3.65 | MS2: 2.75"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Eintracht Frankfurt",
+      "away": "SC Freiburg",
+      "time": "16:30",
+      "date": "19.09.2026",
+      "odds": "MS1: 2.30 | X: 3.65 | MS2: 2.80"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Borussia Mönchengladbach",
+      "away": "Mainz 05",
+      "time": "16:30",
+      "date": "19.09.2026",
+      "odds": "MS1: 2.63 | X: 3.65 | MS2: 2.40"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Hamburger SV",
+      "away": "1. FC Köln",
+      "time": "16:30",
+      "date": "19.09.2026",
+      "odds": "MS1: 2.63 | X: 3.50 | MS2: 2.48"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "VfB Stuttgart",
+      "away": "Borussia Dortmund",
+      "time": "19:30",
+      "date": "19.09.2026",
+      "odds": "MS1: 2.20 | X: 3.85 | MS2: 2.80"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Bayer Leverkusen",
+      "away": "RB Leipzig",
+      "time": "16:30",
+      "date": "20.09.2026",
+      "odds": "MS1: 1.90 | X: 4.10 | MS2: 3.35"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "FC Schalke 04",
+      "away": "Elversberg",
+      "time": "18:30",
+      "date": "20.09.2026",
+      "odds": "MS1: 1.79 | X: 3.75 | MS2: 4.00"
     }
   ]
 }
