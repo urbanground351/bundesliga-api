@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T11:59:39.701831",
+  "last_updated": "2026-09-10T12:24:22.431702",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -57,6 +57,14 @@
       "time": "19:30",
       "date": "12.09.2026",
       "odds": "MS1: 2.08 | X: 3.65 | MS2: 3.10"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "VfB Stuttgart (W)",
+      "away": "VfL Wolfsburg (W)",
+      "time": "15:00",
+      "date": "13.09.2026",
+      "odds": "MS1: 5.80 | X: 4.60 | MS2: 1.36"
     },
     {
       "league": "Almanya Bundesliga",
