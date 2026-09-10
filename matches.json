@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T13:58:02.002672",
+  "last_updated": "2026-09-10T14:15:52.972732",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -24,7 +24,7 @@
       "away": "Borussia Mönchengladbach",
       "time": "16:30",
       "date": "12.09.2026",
-      "odds": "MS1: 1.70 | X: 3.90 | MS2: 4.40"
+      "odds": "MS1: 1.70 | X: 3.90 | MS2: 4.35"
     },
     {
       "league": "Almanya Bundesliga",
@@ -73,6 +73,14 @@
       "time": "16:30",
       "date": "13.09.2026",
       "odds": "MS1: 1.36 | X: 5.00 | MS2: 7.00"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Eintracht Frankfurt (W)",
+      "away": "TSG 1899 Hoffenheim (W)",
+      "time": "17:00",
+      "date": "13.09.2026",
+      "odds": "MS1: 1.68 | X: 3.70 | MS2: 3.85"
     },
     {
       "league": "Almanya Bundesliga",
