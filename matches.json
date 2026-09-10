@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-09-10T18:56:38.723912",
+  "last_updated": "2026-09-10T19:11:01.726046",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Werder Bremen (W)",
+      "away": "Hamburger SV (W)",
+      "time": "19:30",
+      "date": "11.09.2026",
+      "odds": "MS1: 1.42 | X: 4.10 | MS2: 5.80"
+    },
     {
       "league": "Almanya Bundesliga",
       "home": "1. FC Union Berlin",
