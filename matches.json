@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T12:52:54.009226",
+  "last_updated": "2026-09-12T13:05:13.248741",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "1. FC Union Berlin (W)",
       "time": "15:01",
       "date": "12.09.2026",
-      "odds": "MS1: 1.35 | X: 4.00 | MS2: 8.00"
+      "odds": "MS1: 1.35 | X: 3.95 | MS2: 8.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -40,7 +40,7 @@
       "away": "VfB Stuttgart",
       "time": "16:30",
       "date": "12.09.2026",
-      "odds": "MS1: 2.28 | X: 3.95 | MS2: 2.63"
+      "odds": "MS1: 2.20 | X: 3.95 | MS2: 2.70"
     },
     {
       "league": "Almanya Bundesliga",
@@ -89,6 +89,14 @@
       "time": "18:30",
       "date": "13.09.2026",
       "odds": "MS1: 13.00 | X: 8.50 | MS2: 1.14"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "SC Freiburg (W)",
+      "away": "1. FSV Mainz 05 (W)",
+      "time": "19:30",
+      "date": "13.09.2026",
+      "odds": "MS1: 1.30 | X: 5.10 | MS2: 6.40"
     },
     {
       "league": "Almanya Bundesliga",
