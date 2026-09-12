@@ -1,47 +1,7 @@
 {
-  "last_updated": "2026-09-12T15:12:18.084660",
+  "last_updated": "2026-09-12T15:26:25.140617",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Borussia Dortmund",
-      "away": "SC Paderborn 07",
-      "time": "16:30",
-      "date": "12.09.2026",
-      "odds": "MS1: 0.00 | X: 67.00 | MS2: 0.00"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "SC Freiburg",
-      "away": "Borussia Mönchengladbach",
-      "time": "16:30",
-      "date": "12.09.2026",
-      "odds": "Oran Yok"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "FC Augsburg",
-      "away": "Bayer Leverkusen",
-      "time": "16:30",
-      "date": "12.09.2026",
-      "odds": "MS1: 1.44 | X: 3.25 | MS2: 13.00"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "TSG Hoffenheim",
-      "away": "VfB Stuttgart",
-      "time": "16:30",
-      "date": "12.09.2026",
-      "odds": "MS1: 1.29 | X: 4.10 | MS2: 18.00"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Mainz 05",
-      "away": "Eintracht Frankfurt",
-      "time": "16:30",
-      "date": "12.09.2026",
-      "odds": "MS1: 0.00 | X: 111.00 | MS2: 0.00"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "1. FC Köln",
