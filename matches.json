@@ -1,20 +1,12 @@
 {
-  "last_updated": "2026-09-12T11:50:41.601613",
+  "last_updated": "2026-09-12T12:01:23.167395",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
       "league": "Almanya Bundesliga",
-      "home": "RB Leipzig (W)",
-      "away": "1. FC Nürnberg (W)",
-      "time": "13:01",
-      "date": "12.09.2026",
-      "odds": "MS1: 0.00 | X: 16.00 | MS2: 0.00"
-    },
-    {
-      "league": "Almanya Bundesliga",
       "home": "1. FC Köln (W)",
       "away": "1. FC Union Berlin (W)",
-      "time": "15:00",
+      "time": "15:04",
       "date": "12.09.2026",
       "odds": "MS1: 2.12 | X: 3.40 | MS2: 2.80"
     },
