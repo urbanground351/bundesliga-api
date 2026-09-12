@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-09-12T13:53:41.317211",
+  "last_updated": "2026-09-12T14:06:47.309026",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "1. FC Köln (W)",
-      "away": "1. FC Union Berlin (W)",
-      "time": "15:01",
-      "date": "12.09.2026",
-      "odds": "Oran Yok"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "Borussia Dortmund",
       "away": "SC Paderborn 07",
       "time": "16:30",
       "date": "12.09.2026",
-      "odds": "MS1: 1.12 | X: 8.00 | MS2: 18.00"
+      "odds": "MS1: 1.13 | X: 7.50 | MS2: 18.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -24,7 +16,7 @@
       "away": "Borussia Mönchengladbach",
       "time": "16:30",
       "date": "12.09.2026",
-      "odds": "MS1: 1.27 | X: 5.30 | MS2: 10.00"
+      "odds": "MS1: 1.06 | X: 12.00 | MS2: 23.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -32,7 +24,7 @@
       "away": "Bayer Leverkusen",
       "time": "16:30",
       "date": "12.09.2026",
-      "odds": "MS1: 7.50 | X: 4.80 | MS2: 1.35"
+      "odds": "MS1: 0.00 | X: 0.00 | MS2: 0.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -40,7 +32,7 @@
       "away": "VfB Stuttgart",
       "time": "16:30",
       "date": "12.09.2026",
-      "odds": "MS1: 1.52 | X: 4.30 | MS2: 5.10"
+      "odds": "MS1: 1.50 | X: 4.10 | MS2: 5.80"
     },
     {
       "league": "Almanya Bundesliga",
@@ -48,7 +40,7 @@
       "away": "Eintracht Frankfurt",
       "time": "16:30",
       "date": "12.09.2026",
-      "odds": "MS1: 3.20 | X: 3.55 | MS2: 2.06"
+      "odds": "MS1: 3.65 | X: 3.40 | MS2: 1.96"
     },
     {
       "league": "Almanya Bundesliga",
