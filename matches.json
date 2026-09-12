@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T13:43:26.179304",
+  "last_updated": "2026-09-12T13:53:41.317211",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -12,11 +12,19 @@
     },
     {
       "league": "Almanya Bundesliga",
+      "home": "Borussia Dortmund",
+      "away": "SC Paderborn 07",
+      "time": "16:30",
+      "date": "12.09.2026",
+      "odds": "MS1: 1.12 | X: 8.00 | MS2: 18.00"
+    },
+    {
+      "league": "Almanya Bundesliga",
       "home": "SC Freiburg",
       "away": "Borussia Mönchengladbach",
       "time": "16:30",
       "date": "12.09.2026",
-      "odds": "MS1: 1.73 | X: 3.70 | MS2: 4.25"
+      "odds": "MS1: 1.27 | X: 5.30 | MS2: 10.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -24,15 +32,7 @@
       "away": "Bayer Leverkusen",
       "time": "16:30",
       "date": "12.09.2026",
-      "odds": "MS1: 3.60 | X: 3.85 | MS2: 1.84"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Borussia Dortmund",
-      "away": "SC Paderborn 07",
-      "time": "16:30",
-      "date": "12.09.2026",
-      "odds": "MS1: 1.11 | X: 8.50 | MS2: 19.00"
+      "odds": "MS1: 7.50 | X: 4.80 | MS2: 1.35"
     },
     {
       "league": "Almanya Bundesliga",
@@ -40,7 +40,7 @@
       "away": "VfB Stuttgart",
       "time": "16:30",
       "date": "12.09.2026",
-      "odds": "MS1: 1.48 | X: 4.50 | MS2: 5.50"
+      "odds": "MS1: 1.52 | X: 4.30 | MS2: 5.10"
     },
     {
       "league": "Almanya Bundesliga",
@@ -48,7 +48,7 @@
       "away": "Eintracht Frankfurt",
       "time": "16:30",
       "date": "12.09.2026",
-      "odds": "MS1: 2.80 | X: 3.70 | MS2: 2.20"
+      "odds": "MS1: 3.20 | X: 3.55 | MS2: 2.06"
     },
     {
       "league": "Almanya Bundesliga",
