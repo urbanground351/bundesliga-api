@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-09-13T15:17:04.572017",
+  "last_updated": "2026-09-13T15:30:54.273306",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "RB Leipzig",
-      "away": "Hamburger SV",
-      "time": "16:30",
-      "date": "13.09.2026",
-      "odds": "Oran Yok"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "Eintracht Frankfurt (W)",
       "away": "TSG 1899 Hoffenheim (W)",
       "time": "17:00",
       "date": "13.09.2026",
-      "odds": "MS1: 1.53 | X: 3.05 | MS2: 7.50"
+      "odds": "MS1: 1.05 | X: 8.50 | MS2: 36.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -24,7 +16,7 @@
       "away": "Bayern Munich",
       "time": "18:30",
       "date": "13.09.2026",
-      "odds": "MS1: 13.00 | X: 8.00 | MS2: 1.15"
+      "odds": "MS1: 11.50 | X: 8.00 | MS2: 1.15"
     },
     {
       "league": "Almanya Bundesliga",
