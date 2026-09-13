@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-09-13T13:45:15.274631",
+  "last_updated": "2026-09-13T13:55:52.173499",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "VfB Stuttgart (W)",
-      "away": "VfL Wolfsburg (W)",
-      "time": "15:00",
-      "date": "13.09.2026",
-      "odds": "Oran Yok"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "RB Leipzig",
       "away": "Hamburger SV",
       "time": "16:30",
       "date": "13.09.2026",
-      "odds": "MS1: 1.40 | X: 4.70 | MS2: 6.75"
+      "odds": "MS1: 1.12 | X: 8.00 | MS2: 17.00"
     },
     {
       "league": "Almanya Bundesliga",
