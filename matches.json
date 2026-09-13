@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T16:23:47.859832",
+  "last_updated": "2026-09-13T16:38:14.506614",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -16,7 +16,15 @@
       "away": "1. FSV Mainz 05 (W)",
       "time": "19:30",
       "date": "13.09.2026",
-      "odds": "MS1: 1.30 | X: 5.10 | MS2: 6.40"
+      "odds": "MS1: 1.35 | X: 4.80 | MS2: 6.00"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Bayer Leverkusen (W)",
+      "away": "Bayern Munich (W)",
+      "time": "19:00",
+      "date": "14.09.2026",
+      "odds": "MS1: 5.80 | X: 4.25 | MS2: 1.40"
     },
     {
       "league": "Almanya Bundesliga",
