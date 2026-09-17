@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T11:56:59.234421",
+  "last_updated": "2026-09-17T12:18:31.031794",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -65,6 +65,14 @@
       "time": "19:30",
       "date": "19.09.2026",
       "odds": "MS1: 2.18 | X: 3.85 | MS2: 2.80"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Hamburger SV (W)",
+      "away": "1. FC Nürnberg (W)",
+      "time": "15:00",
+      "date": "20.09.2026",
+      "odds": "MS1: 2.25 | X: 3.25 | MS2: 2.65"
     },
     {
       "league": "Almanya Bundesliga",
