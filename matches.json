@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T13:57:48.512844",
+  "last_updated": "2026-09-17T14:16:18.730310",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -81,6 +81,14 @@
       "time": "16:30",
       "date": "20.09.2026",
       "odds": "MS1: 1.92 | X: 4.10 | MS2: 3.25"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "SC Freiburg (W)",
+      "away": "Bayer Leverkusen (W)",
+      "time": "17:00",
+      "date": "20.09.2026",
+      "odds": "MS1: 3.95 | X: 3.65 | MS2: 1.68"
     },
     {
       "league": "Almanya Bundesliga",
