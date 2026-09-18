@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-09-18T20:18:46.559177",
+  "last_updated": "2026-09-18T20:32:41.455246",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Bayern Munich",
-      "away": "1. FC Union Berlin",
-      "time": "21:30",
-      "date": "18.09.2026",
-      "odds": "Oran Yok"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "Werder Bremen",
@@ -48,7 +40,7 @@
       "away": "Borussia Dortmund",
       "time": "19:30",
       "date": "19.09.2026",
-      "odds": "MS1: 2.28 | X: 3.80 | MS2: 2.70"
+      "odds": "MS1: 2.28 | X: 3.75 | MS2: 2.70"
     },
     {
       "league": "Almanya Bundesliga",
