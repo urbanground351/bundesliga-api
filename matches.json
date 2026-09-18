@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T07:45:51.165204",
+  "last_updated": "2026-09-18T07:55:57.671414",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -96,7 +96,7 @@
       "away": "Elversberg",
       "time": "18:30",
       "date": "20.09.2026",
-      "odds": "MS1: 1.95 | X: 3.75 | MS2: 3.40"
+      "odds": "MS1: 1.95 | X: 3.70 | MS2: 3.45"
     },
     {
       "league": "Almanya Bundesliga",
@@ -104,7 +104,7 @@
       "away": "TSG Hoffenheim",
       "time": "20:30",
       "date": "20.09.2026",
-      "odds": "MS1: 4.30 | X: 4.35 | MS2: 1.64"
+      "odds": "MS1: 4.25 | X: 4.35 | MS2: 1.65"
     }
   ]
 }
