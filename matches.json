@@ -1,30 +1,14 @@
 {
-  "last_updated": "2026-09-19T15:25:05.377982",
+  "last_updated": "2026-09-19T15:37:40.488150",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Werder Bremen",
-      "away": "FC Augsburg",
-      "time": "16:30",
-      "date": "19.09.2026",
-      "odds": "MS1: 0.00 | X: 0.00 | MS2: 0.00"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Borussia Mönchengladbach",
-      "away": "Mainz 05",
-      "time": "16:30",
-      "date": "19.09.2026",
-      "odds": "MS1: 0.00 | X: 161.00 | MS2: 0.00"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "VfB Stuttgart",
       "away": "Borussia Dortmund",
       "time": "19:30",
       "date": "19.09.2026",
-      "odds": "MS1: 2.38 | X: 3.70 | MS2: 2.60"
+      "odds": "MS1: 2.40 | X: 3.75 | MS2: 2.55"
     },
     {
       "league": "Almanya Bundesliga",
@@ -40,7 +24,7 @@
       "away": "RB Leipzig",
       "time": "16:30",
       "date": "20.09.2026",
-      "odds": "MS1: 1.91 | X: 4.00 | MS2: 3.35"
+      "odds": "MS1: 1.91 | X: 4.10 | MS2: 3.25"
     },
     {
       "league": "Almanya Bundesliga",
