@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-09-19T13:53:58.419141",
+  "last_updated": "2026-09-19T14:07:50.981666",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Bayern Munich (W)",
-      "away": "1. FC Köln (W)",
-      "time": "15:00",
-      "date": "19.09.2026",
-      "odds": "Oran Yok"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "Eintracht Frankfurt",
       "away": "SC Freiburg",
       "time": "16:30",
       "date": "19.09.2026",
-      "odds": "MS1: 1.75 | X: 3.70 | MS2: 4.20"
+      "odds": "MS1: 1.63 | X: 3.65 | MS2: 5.20"
     },
     {
       "league": "Almanya Bundesliga",
@@ -24,7 +16,7 @@
       "away": "FC Augsburg",
       "time": "16:30",
       "date": "19.09.2026",
-      "odds": "MS1: 4.35 | X: 3.70 | MS2: 1.72"
+      "odds": "MS1: 4.75 | X: 3.45 | MS2: 1.73"
     },
     {
       "league": "Almanya Bundesliga",
@@ -32,7 +24,7 @@
       "away": "Mainz 05",
       "time": "16:30",
       "date": "19.09.2026",
-      "odds": "MS1: 3.50 | X: 3.05 | MS2: 2.15"
+      "odds": "MS1: 3.45 | X: 2.75 | MS2: 2.33"
     },
     {
       "league": "Almanya Bundesliga",
@@ -40,7 +32,7 @@
       "away": "1. FC Köln",
       "time": "16:30",
       "date": "19.09.2026",
-      "odds": "MS1: 3.05 | X: 3.10 | MS2: 2.32"
+      "odds": "MS1: 3.25 | X: 2.88 | MS2: 2.35"
     },
     {
       "league": "Almanya Bundesliga",
