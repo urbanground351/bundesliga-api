@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-09-20T17:18:43.810540",
+  "last_updated": "2026-09-20T17:30:58.404455",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "FC Schalke 04",
-      "away": "Elversberg",
-      "time": "18:30",
-      "date": "20.09.2026",
-      "odds": "MS1: 18.00 | X: 1.04 | MS2: 21.00"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "1. FC Union Berlin (W)",
@@ -24,7 +16,7 @@
       "away": "TSG Hoffenheim",
       "time": "20:30",
       "date": "20.09.2026",
-      "odds": "MS1: 3.80 | X: 4.20 | MS2: 1.75"
+      "odds": "MS1: 3.80 | X: 4.10 | MS2: 1.74"
     },
     {
       "league": "Almanya Bundesliga",
