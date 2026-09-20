@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T23:52:28.114942",
+  "last_updated": "2026-09-20T00:07:08.042912",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -33,6 +33,14 @@
       "time": "18:30",
       "date": "20.09.2026",
       "odds": "MS1: 1.98 | X: 3.70 | MS2: 3.40"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Union Berlin (W)",
+      "away": "RB Leipzig (W)",
+      "time": "19:30",
+      "date": "20.09.2026",
+      "odds": "MS1: 1.76 | X: 3.50 | MS2: 3.75"
     },
     {
       "league": "Almanya Bundesliga",
