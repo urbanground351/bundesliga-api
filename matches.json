@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T10:32:31.409653",
+  "last_updated": "2026-09-21T10:46:02.629840",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -17,6 +17,54 @@
       "time": "21:30",
       "date": "09.10.2026",
       "odds": "MS1: 1.33 | X: 5.40 | MS2: 7.50"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Mainz 05",
+      "away": "Bayer Leverkusen",
+      "time": "16:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 2.85 | X: 3.80 | MS2: 2.17"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "VfB Stuttgart",
+      "time": "16:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 4.50 | X: 4.30 | MS2: 1.62"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "TSG Hoffenheim",
+      "away": "Hamburger SV",
+      "time": "16:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 1.36 | X: 5.25 | MS2: 6.75"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Union Berlin",
+      "away": "Elversberg",
+      "time": "16:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 2.23 | X: 3.75 | MS2: 2.80"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "FC Augsburg",
+      "away": "Bayern Munich",
+      "time": "16:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 10.00 | X: 7.00 | MS2: 1.20"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "RB Leipzig",
+      "away": "Eintracht Frankfurt",
+      "time": "19:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 1.54 | X: 4.60 | MS2: 4.90"
     }
   ]
 }
