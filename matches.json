@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T10:46:02.629840",
+  "last_updated": "2026-09-21T10:56:22.786731",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -28,27 +28,11 @@
     },
     {
       "league": "Almanya Bundesliga",
-      "home": "SC Paderborn 07",
-      "away": "VfB Stuttgart",
-      "time": "16:30",
-      "date": "10.10.2026",
-      "odds": "MS1: 4.50 | X: 4.30 | MS2: 1.62"
-    },
-    {
-      "league": "Almanya Bundesliga",
       "home": "TSG Hoffenheim",
       "away": "Hamburger SV",
       "time": "16:30",
       "date": "10.10.2026",
       "odds": "MS1: 1.36 | X: 5.25 | MS2: 6.75"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "1. FC Union Berlin",
-      "away": "Elversberg",
-      "time": "16:30",
-      "date": "10.10.2026",
-      "odds": "MS1: 2.23 | X: 3.75 | MS2: 2.80"
     },
     {
       "league": "Almanya Bundesliga",
@@ -60,11 +44,43 @@
     },
     {
       "league": "Almanya Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "VfB Stuttgart",
+      "time": "16:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 4.50 | X: 4.30 | MS2: 1.62"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Union Berlin",
+      "away": "Elversberg",
+      "time": "16:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 2.23 | X: 3.75 | MS2: 2.80"
+    },
+    {
+      "league": "Almanya Bundesliga",
       "home": "RB Leipzig",
       "away": "Eintracht Frankfurt",
       "time": "19:30",
       "date": "10.10.2026",
       "odds": "MS1: 1.54 | X: 4.60 | MS2: 4.90"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Köln",
+      "away": "Borussia Mönchengladbach",
+      "time": "16:30",
+      "date": "11.10.2026",
+      "odds": "MS1: 1.92 | X: 3.95 | MS2: 3.35"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "SC Freiburg",
+      "away": "FC Schalke 04",
+      "time": "18:30",
+      "date": "11.10.2026",
+      "odds": "MS1: 1.58 | X: 4.10 | MS2: 5.00"
     }
   ]
 }
