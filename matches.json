@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T00:35:51.156217",
+  "last_updated": "2026-09-22T00:51:32.946970",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -20,14 +20,6 @@
     },
     {
       "league": "Almanya Bundesliga",
-      "home": "SC Paderborn 07",
-      "away": "VfB Stuttgart",
-      "time": "16:30",
-      "date": "10.10.2026",
-      "odds": "MS1: 4.50 | X: 4.30 | MS2: 1.62"
-    },
-    {
-      "league": "Almanya Bundesliga",
       "home": "TSG Hoffenheim",
       "away": "Hamburger SV",
       "time": "16:30",
@@ -36,19 +28,27 @@
     },
     {
       "league": "Almanya Bundesliga",
-      "home": "1. FC Union Berlin",
-      "away": "Elversberg",
-      "time": "16:30",
-      "date": "10.10.2026",
-      "odds": "MS1: 2.23 | X: 3.75 | MS2: 2.80"
-    },
-    {
-      "league": "Almanya Bundesliga",
       "home": "FC Augsburg",
       "away": "Bayern Munich",
       "time": "16:30",
       "date": "10.10.2026",
       "odds": "MS1: 10.00 | X: 7.00 | MS2: 1.20"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "VfB Stuttgart",
+      "time": "16:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 4.50 | X: 4.30 | MS2: 1.62"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Union Berlin",
+      "away": "Elversberg",
+      "time": "16:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 2.23 | X: 3.75 | MS2: 2.80"
     },
     {
       "league": "Almanya Bundesliga",
