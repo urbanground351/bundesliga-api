@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T20:53:20.753983",
+  "last_updated": "2026-09-23T21:07:03.882791",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -16,7 +16,7 @@
       "away": "Bayer Leverkusen",
       "time": "16:30",
       "date": "10.10.2026",
-      "odds": "MS1: 2.85 | X: 3.80 | MS2: 2.17"
+      "odds": "MS1: 2.85 | X: 3.85 | MS2: 2.17"
     },
     {
       "league": "Almanya Bundesliga",
@@ -32,7 +32,7 @@
       "away": "Bayern Munich",
       "time": "16:30",
       "date": "10.10.2026",
-      "odds": "MS1: 10.00 | X: 7.00 | MS2: 1.20"
+      "odds": "MS1: 10.00 | X: 7.00 | MS2: 1.21"
     },
     {
       "league": "Almanya Bundesliga",
@@ -40,7 +40,7 @@
       "away": "VfB Stuttgart",
       "time": "16:30",
       "date": "10.10.2026",
-      "odds": "MS1: 4.50 | X: 4.30 | MS2: 1.62"
+      "odds": "MS1: 4.40 | X: 4.35 | MS2: 1.63"
     },
     {
       "league": "Almanya Bundesliga",
@@ -48,7 +48,7 @@
       "away": "Elversberg",
       "time": "16:30",
       "date": "10.10.2026",
-      "odds": "MS1: 2.23 | X: 3.75 | MS2: 2.80"
+      "odds": "MS1: 2.25 | X: 3.70 | MS2: 2.80"
     },
     {
       "league": "Almanya Bundesliga",
@@ -56,7 +56,7 @@
       "away": "Eintracht Frankfurt",
       "time": "19:30",
       "date": "10.10.2026",
-      "odds": "MS1: 1.54 | X: 4.60 | MS2: 4.90"
+      "odds": "MS1: 1.53 | X: 4.60 | MS2: 5.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -64,7 +64,7 @@
       "away": "Borussia Mönchengladbach",
       "time": "16:30",
       "date": "11.10.2026",
-      "odds": "MS1: 1.92 | X: 3.95 | MS2: 3.35"
+      "odds": "MS1: 1.91 | X: 4.00 | MS2: 3.30"
     },
     {
       "league": "Almanya Bundesliga",
@@ -72,7 +72,7 @@
       "away": "FC Schalke 04",
       "time": "18:30",
       "date": "11.10.2026",
-      "odds": "MS1: 1.58 | X: 4.10 | MS2: 5.00"
+      "odds": "MS1: 1.60 | X: 4.10 | MS2: 5.00"
     }
   ]
 }
