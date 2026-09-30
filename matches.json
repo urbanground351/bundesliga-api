@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T15:23:08.647853",
+  "last_updated": "2026-09-30T20:10:43.976685",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -17,6 +17,14 @@
       "time": "17:00",
       "date": "03.10.2026",
       "odds": "MS1: 2.02 | X: 3.30 | MS2: 3.10"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Eintracht Frankfurt (W)",
+      "away": "Bayern Munich (W)",
+      "time": "18:55",
+      "date": "03.10.2026",
+      "odds": "MS1: 5.30 | X: 4.20 | MS2: 1.44"
     },
     {
       "league": "Almanya Bundesliga",
