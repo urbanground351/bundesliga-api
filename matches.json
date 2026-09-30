@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T08:46:17.627852",
+  "last_updated": "2026-09-30T15:23:08.647853",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -9,6 +9,14 @@
       "time": "19:30",
       "date": "02.10.2026",
       "odds": "MS1: 1.67 | X: 3.70 | MS2: 3.90"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Köln (W)",
+      "away": "SC Freiburg (W)",
+      "time": "17:00",
+      "date": "03.10.2026",
+      "odds": "MS1: 2.02 | X: 3.30 | MS2: 3.10"
     },
     {
       "league": "Almanya Bundesliga",
