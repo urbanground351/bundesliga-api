@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T06:27:47.816535",
+  "last_updated": "2026-10-07T13:46:38.070523",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -32,7 +32,7 @@
       "away": "Bayern Munich",
       "time": "16:30",
       "date": "10.10.2026",
-      "odds": "MS1: 10.00 | X: 7.50 | MS2: 1.20"
+      "odds": "MS1: 10.50 | X: 7.50 | MS2: 1.19"
     },
     {
       "league": "Almanya Bundesliga",
@@ -72,7 +72,7 @@
       "away": "FC Schalke 04",
       "time": "18:30",
       "date": "11.10.2026",
-      "odds": "MS1: 1.60 | X: 4.10 | MS2: 5.00"
+      "odds": "MS1: 1.60 | X: 4.25 | MS2: 4.80"
     },
     {
       "league": "Almanya Bundesliga",
@@ -80,7 +80,47 @@
       "away": "1. FC Köln",
       "time": "21:30",
       "date": "16.10.2026",
-      "odds": "MS1: 1.98 | X: 3.85 | MS2: 3.25"
+      "odds": "MS1: 1.87 | X: 3.95 | MS2: 3.50"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Union Berlin",
+      "away": "Borussia Dortmund",
+      "time": "16:30",
+      "date": "17.10.2026",
+      "odds": "MS1: 5.10 | X: 4.40 | MS2: 1.54"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Hamburger SV",
+      "away": "VfB Stuttgart",
+      "time": "16:30",
+      "date": "17.10.2026",
+      "odds": "MS1: 4.00 | X: 4.25 | MS2: 1.70"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "FC Schalke 04",
+      "away": "Mainz 05",
+      "time": "16:30",
+      "date": "17.10.2026",
+      "odds": "MS1: 2.90 | X: 3.60 | MS2: 2.23"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Werder Bremen",
+      "away": "SC Paderborn 07",
+      "time": "16:30",
+      "date": "17.10.2026",
+      "odds": "MS1: 1.84 | X: 3.90 | MS2: 3.65"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Elversberg",
+      "away": "FC Augsburg",
+      "time": "16:30",
+      "date": "17.10.2026",
+      "odds": "MS1: 2.32 | X: 3.85 | MS2: 2.63"
     }
   ]
 }
