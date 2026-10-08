@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T03:01:37.263110",
+  "last_updated": "2026-10-08T10:25:00.362062",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -24,7 +24,7 @@
       "away": "Hamburger SV",
       "time": "16:30",
       "date": "10.10.2026",
-      "odds": "MS1: 1.40 | X: 5.00 | MS2: 6.50"
+      "odds": "MS1: 1.40 | X: 4.90 | MS2: 6.50"
     },
     {
       "league": "Almanya Bundesliga",
@@ -128,7 +128,7 @@
       "away": "RB Leipzig",
       "time": "19:30",
       "date": "17.10.2026",
-      "odds": "MS1: 1.19 | X: 7.50 | MS2: 10.50"
+      "odds": "MS1: 1.20 | X: 7.50 | MS2: 10.00"
     }
   ]
 }
