@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T10:25:00.362062",
+  "last_updated": "2026-10-08T17:29:37.550475",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "Werder Bremen",
       "time": "21:30",
       "date": "09.10.2026",
-      "odds": "MS1: 1.30 | X: 5.60 | MS2: 8.00"
+      "odds": "MS1: 1.29 | X: 5.80 | MS2: 8.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -32,7 +32,7 @@
       "away": "Bayern Munich",
       "time": "16:30",
       "date": "10.10.2026",
-      "odds": "MS1: 10.50 | X: 7.50 | MS2: 1.19"
+      "odds": "MS1: 11.00 | X: 7.50 | MS2: 1.19"
     },
     {
       "league": "Almanya Bundesliga",
@@ -48,7 +48,7 @@
       "away": "Elversberg",
       "time": "16:30",
       "date": "10.10.2026",
-      "odds": "MS1: 2.23 | X: 3.70 | MS2: 2.80"
+      "odds": "MS1: 2.23 | X: 3.70 | MS2: 2.85"
     },
     {
       "league": "Almanya Bundesliga",
@@ -64,7 +64,7 @@
       "away": "Borussia Mönchengladbach",
       "time": "16:30",
       "date": "11.10.2026",
-      "odds": "MS1: 1.93 | X: 4.00 | MS2: 3.25"
+      "odds": "MS1: 1.96 | X: 3.95 | MS2: 3.25"
     },
     {
       "league": "Almanya Bundesliga",
@@ -129,6 +129,22 @@
       "time": "19:30",
       "date": "17.10.2026",
       "odds": "MS1: 1.20 | X: 7.50 | MS2: 10.00"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Bayer Leverkusen",
+      "away": "SC Freiburg",
+      "time": "16:30",
+      "date": "18.10.2026",
+      "odds": "MS1: 1.66 | X: 4.25 | MS2: 4.20"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Borussia Mönchengladbach",
+      "away": "TSG Hoffenheim",
+      "time": "18:30",
+      "date": "18.10.2026",
+      "odds": "MS1: 3.20 | X: 4.00 | MS2: 1.95"
     }
   ]
 }
