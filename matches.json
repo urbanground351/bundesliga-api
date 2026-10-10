@@ -1,14 +1,22 @@
 {
-  "last_updated": "2026-10-10T00:44:49.874172",
+  "last_updated": "2026-10-10T06:26:07.530176",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
+    {
+      "league": "Almanya Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "VfB Stuttgart",
+      "time": "16:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 4.70 | X: 4.50 | MS2: 1.57"
+    },
     {
       "league": "Almanya Bundesliga",
       "home": "Mainz 05",
       "away": "Bayer Leverkusen",
       "time": "16:30",
       "date": "10.10.2026",
-      "odds": "MS1: 2.85 | X: 3.85 | MS2: 2.16"
+      "odds": "MS1: 2.88 | X: 3.80 | MS2: 2.17"
     },
     {
       "league": "Almanya Bundesliga",
@@ -25,14 +33,6 @@
       "time": "16:30",
       "date": "10.10.2026",
       "odds": "MS1: 12.50 | X: 8.00 | MS2: 1.16"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "SC Paderborn 07",
-      "away": "VfB Stuttgart",
-      "time": "16:30",
-      "date": "10.10.2026",
-      "odds": "MS1: 4.70 | X: 4.50 | MS2: 1.57"
     },
     {
       "league": "Almanya Bundesliga",
