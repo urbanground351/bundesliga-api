@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-10-10T06:26:07.530176",
+  "last_updated": "2026-10-10T12:53:45.835646",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "SC Paderborn 07",
-      "away": "VfB Stuttgart",
-      "time": "16:30",
-      "date": "10.10.2026",
-      "odds": "MS1: 4.70 | X: 4.50 | MS2: 1.57"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "Mainz 05",
       "away": "Bayer Leverkusen",
       "time": "16:30",
       "date": "10.10.2026",
-      "odds": "MS1: 2.88 | X: 3.80 | MS2: 2.17"
+      "odds": "MS1: 3.00 | X: 3.80 | MS2: 2.10"
     },
     {
       "league": "Almanya Bundesliga",
@@ -24,7 +16,7 @@
       "away": "Hamburger SV",
       "time": "16:30",
       "date": "10.10.2026",
-      "odds": "MS1: 1.40 | X: 5.10 | MS2: 6.40"
+      "odds": "MS1: 1.37 | X: 5.20 | MS2: 6.75"
     },
     {
       "league": "Almanya Bundesliga",
@@ -32,7 +24,15 @@
       "away": "Bayern Munich",
       "time": "16:30",
       "date": "10.10.2026",
-      "odds": "MS1: 12.50 | X: 8.00 | MS2: 1.16"
+      "odds": "MS1: 11.50 | X: 8.00 | MS2: 1.16"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "VfB Stuttgart",
+      "time": "16:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 4.50 | X: 4.50 | MS2: 1.60"
     },
     {
       "league": "Almanya Bundesliga",
@@ -40,7 +40,7 @@
       "away": "Elversberg",
       "time": "16:30",
       "date": "10.10.2026",
-      "odds": "MS1: 2.32 | X: 3.70 | MS2: 2.70"
+      "odds": "MS1: 2.45 | X: 3.55 | MS2: 2.60"
     },
     {
       "league": "Almanya Bundesliga",
@@ -48,7 +48,7 @@
       "away": "Eintracht Frankfurt",
       "time": "19:30",
       "date": "10.10.2026",
-      "odds": "MS1: 1.52 | X: 4.75 | MS2: 4.90"
+      "odds": "MS1: 1.52 | X: 4.80 | MS2: 4.90"
     },
     {
       "league": "Almanya Bundesliga",
@@ -64,7 +64,7 @@
       "away": "FC Schalke 04",
       "time": "18:30",
       "date": "11.10.2026",
-      "odds": "MS1: 1.58 | X: 3.95 | MS2: 5.30"
+      "odds": "MS1: 1.60 | X: 3.90 | MS2: 5.25"
     },
     {
       "league": "Almanya Bundesliga",
