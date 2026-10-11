@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T03:00:05.074126",
+  "last_updated": "2026-10-11T09:53:56.675141",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "Borussia Mönchengladbach",
       "time": "16:30",
       "date": "11.10.2026",
-      "odds": "MS1: 1.98 | X: 3.85 | MS2: 3.20"
+      "odds": "MS1: 1.90 | X: 3.90 | MS2: 3.45"
     },
     {
       "league": "Almanya Bundesliga",
@@ -16,7 +16,7 @@
       "away": "FC Schalke 04",
       "time": "18:30",
       "date": "11.10.2026",
-      "odds": "MS1: 1.60 | X: 3.85 | MS2: 5.30"
+      "odds": "MS1: 1.62 | X: 3.85 | MS2: 5.10"
     },
     {
       "league": "Almanya Bundesliga",
@@ -88,7 +88,7 @@
       "away": "TSG Hoffenheim",
       "time": "18:30",
       "date": "18.10.2026",
-      "odds": "MS1: 3.20 | X: 4.00 | MS2: 1.95"
+      "odds": "MS1: 3.30 | X: 3.95 | MS2: 1.94"
     }
   ]
 }
