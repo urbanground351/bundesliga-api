@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-10-11T09:53:56.675141",
+  "last_updated": "2026-10-11T16:07:02.126619",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
       "league": "Almanya Bundesliga",
-      "home": "1. FC Köln",
-      "away": "Borussia Mönchengladbach",
-      "time": "16:30",
-      "date": "11.10.2026",
-      "odds": "MS1: 1.90 | X: 3.90 | MS2: 3.45"
-    },
-    {
-      "league": "Almanya Bundesliga",
       "home": "SC Freiburg",
       "away": "FC Schalke 04",
-      "time": "18:30",
+      "time": "18:29",
       "date": "11.10.2026",
-      "odds": "MS1: 1.62 | X: 3.85 | MS2: 5.10"
+      "odds": "MS1: 1.75 | X: 3.15 | MS2: 5.25"
     },
     {
       "league": "Almanya Bundesliga",
