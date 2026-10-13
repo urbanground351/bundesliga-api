@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T08:21:55.778353",
+  "last_updated": "2026-10-13T16:10:49.559662",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "1. FC Köln",
       "time": "21:30",
       "date": "16.10.2026",
-      "odds": "MS1: 1.86 | X: 4.00 | MS2: 3.50"
+      "odds": "MS1: 1.90 | X: 3.95 | MS2: 3.40"
     },
     {
       "league": "Almanya Bundesliga",
@@ -64,7 +64,7 @@
       "away": "SC Freiburg",
       "time": "16:30",
       "date": "18.10.2026",
-      "odds": "MS1: 1.68 | X: 4.10 | MS2: 4.30"
+      "odds": "MS1: 1.67 | X: 4.20 | MS2: 4.30"
     },
     {
       "league": "Almanya Bundesliga",
@@ -72,7 +72,7 @@
       "away": "TSG Hoffenheim",
       "time": "18:30",
       "date": "18.10.2026",
-      "odds": "MS1: 3.30 | X: 3.95 | MS2: 1.94"
+      "odds": "MS1: 3.25 | X: 3.95 | MS2: 1.95"
     }
   ]
 }
