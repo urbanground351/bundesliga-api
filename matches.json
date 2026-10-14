@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T05:06:49.843842",
+  "last_updated": "2026-10-14T10:08:20.282405",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -8,7 +8,15 @@
       "away": "1. FC Köln",
       "time": "21:30",
       "date": "16.10.2026",
-      "odds": "MS1: 1.90 | X: 3.95 | MS2: 3.40"
+      "odds": "MS1: 1.89 | X: 4.00 | MS2: 3.40"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Köln (W)",
+      "away": "Hamburger SV (W)",
+      "time": "13:00",
+      "date": "17.10.2026",
+      "odds": "MS1: 1.47 | X: 3.90 | MS2: 5.40"
     },
     {
       "league": "Almanya Bundesliga",
@@ -40,7 +48,7 @@
       "away": "SC Paderborn 07",
       "time": "16:30",
       "date": "17.10.2026",
-      "odds": "MS1: 1.80 | X: 3.90 | MS2: 3.85"
+      "odds": "MS1: 1.79 | X: 3.95 | MS2: 3.85"
     },
     {
       "league": "Almanya Bundesliga",
@@ -48,7 +56,7 @@
       "away": "FC Augsburg",
       "time": "16:30",
       "date": "17.10.2026",
-      "odds": "MS1: 2.30 | X: 3.90 | MS2: 2.60"
+      "odds": "MS1: 2.30 | X: 3.85 | MS2: 2.65"
     },
     {
       "league": "Almanya Bundesliga",
@@ -72,7 +80,7 @@
       "away": "TSG Hoffenheim",
       "time": "18:30",
       "date": "18.10.2026",
-      "odds": "MS1: 3.10 | X: 4.00 | MS2: 2.00"
+      "odds": "MS1: 3.05 | X: 4.00 | MS2: 2.02"
     },
     {
       "league": "Almanya Bundesliga",
