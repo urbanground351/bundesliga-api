@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T15:06:30.193009",
+  "last_updated": "2026-10-14T19:19:39.231265",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -40,7 +40,7 @@
       "away": "VfB Stuttgart",
       "time": "16:30",
       "date": "17.10.2026",
-      "odds": "MS1: 4.00 | X: 4.20 | MS2: 1.71"
+      "odds": "MS1: 3.95 | X: 4.10 | MS2: 1.74"
     },
     {
       "league": "Almanya Bundesliga",
@@ -137,6 +137,14 @@
       "time": "16:30",
       "date": "24.10.2026",
       "odds": "MS1: 1.36 | X: 5.40 | MS2: 6.50"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Borussia Dortmund",
+      "away": "Eintracht Frankfurt",
+      "time": "19:30",
+      "date": "24.10.2026",
+      "odds": "MS1: 1.45 | X: 4.80 | MS2: 5.80"
     }
   ]
 }
