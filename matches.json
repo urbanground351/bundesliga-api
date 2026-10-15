@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-10-15T14:55:32.541322",
+  "last_updated": "2026-10-15T18:53:49.431452",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
+    {
+      "league": "Almanya Bundesliga",
+      "home": "SC Freiburg (W)",
+      "away": "RB Leipzig (W)",
+      "time": "19:30",
+      "date": "16.10.2026",
+      "odds": "MS1: 2.55 | X: 3.35 | MS2: 2.35"
+    },
     {
       "league": "Almanya Bundesliga",
       "home": "Eintracht Frankfurt",
@@ -32,7 +40,7 @@
       "away": "Borussia Dortmund",
       "time": "16:30",
       "date": "17.10.2026",
-      "odds": "MS1: 5.10 | X: 4.25 | MS2: 1.57"
+      "odds": "MS1: 5.10 | X: 4.25 | MS2: 1.56"
     },
     {
       "league": "Almanya Bundesliga",
@@ -88,7 +96,7 @@
       "away": "SC Freiburg",
       "time": "16:30",
       "date": "18.10.2026",
-      "odds": "MS1: 1.67 | X: 4.10 | MS2: 4.35"
+      "odds": "MS1: 1.68 | X: 4.10 | MS2: 4.35"
     },
     {
       "league": "Almanya Bundesliga",
@@ -105,6 +113,14 @@
       "time": "18:30",
       "date": "18.10.2026",
       "odds": "MS1: 3.05 | X: 4.10 | MS2: 2.00"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FSV Mainz 05 (W)",
+      "away": "VfL Wolfsburg (W)",
+      "time": "19:30",
+      "date": "18.10.2026",
+      "odds": "MS1: 21.00 | X: 12.00 | MS2: 1.01"
     },
     {
       "league": "Almanya Bundesliga",
@@ -140,19 +156,19 @@
     },
     {
       "league": "Almanya Bundesliga",
-      "home": "FC Augsburg",
-      "away": "1. FC Union Berlin",
-      "time": "16:30",
-      "date": "24.10.2026",
-      "odds": "MS1: 1.75 | X: 4.00 | MS2: 4.00"
-    },
-    {
-      "league": "Almanya Bundesliga",
       "home": "RB Leipzig",
       "away": "Elversberg",
       "time": "16:30",
       "date": "24.10.2026",
       "odds": "MS1: 1.36 | X: 5.40 | MS2: 6.50"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "FC Augsburg",
+      "away": "1. FC Union Berlin",
+      "time": "16:30",
+      "date": "24.10.2026",
+      "odds": "MS1: 1.75 | X: 4.00 | MS2: 4.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -168,7 +184,15 @@
       "away": "Bayer Leverkusen",
       "time": "17:30",
       "date": "25.10.2026",
-      "odds": "MS1: 2.48 | X: 3.80 | MS2: 2.45"
+      "odds": "MS1: 2.45 | X: 3.95 | MS2: 2.43"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "SC Freiburg",
+      "away": "Bayern Munich",
+      "time": "19:30",
+      "date": "25.10.2026",
+      "odds": "MS1: 6.25 | X: 5.10 | MS2: 1.40"
     }
   ]
 }
