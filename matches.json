@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T13:56:59.731466",
+  "last_updated": "2026-10-16T17:53:16.367010",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "RB Leipzig (W)",
       "time": "19:30",
       "date": "16.10.2026",
-      "odds": "MS1: 2.55 | X: 3.35 | MS2: 2.35"
+      "odds": "MS1: 6.00 | X: 2.35 | MS2: 1.92"
     },
     {
       "league": "Almanya Bundesliga",
@@ -16,7 +16,7 @@
       "away": "1. FC Köln",
       "time": "21:30",
       "date": "16.10.2026",
-      "odds": "MS1: 1.76 | X: 4.20 | MS2: 3.70"
+      "odds": "MS1: 1.78 | X: 4.10 | MS2: 3.75"
     },
     {
       "league": "Almanya Bundesliga",
@@ -96,7 +96,7 @@
       "away": "SC Freiburg",
       "time": "16:30",
       "date": "18.10.2026",
-      "odds": "MS1: 1.67 | X: 4.20 | MS2: 4.25"
+      "odds": "MS1: 1.68 | X: 4.10 | MS2: 4.30"
     },
     {
       "league": "Almanya Bundesliga",
@@ -121,6 +121,14 @@
       "time": "19:30",
       "date": "18.10.2026",
       "odds": "MS1: 21.00 | X: 12.00 | MS2: 1.01"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Bayern Munich (W)",
+      "away": "VfB Stuttgart (W)",
+      "time": "19:00",
+      "date": "19.10.2026",
+      "odds": "MS1: 1.05 | X: 9.00 | MS2: 16.00"
     },
     {
       "league": "Almanya Bundesliga",
