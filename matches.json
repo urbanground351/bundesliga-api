@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-10-17T09:38:59.234113",
+  "last_updated": "2026-10-17T13:12:24.522469",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
       "league": "Almanya Bundesliga",
-      "home": "1. FC Köln (W)",
-      "away": "Hamburger SV (W)",
-      "time": "13:00",
-      "date": "17.10.2026",
-      "odds": "MS1: 1.47 | X: 3.90 | MS2: 5.40"
-    },
-    {
-      "league": "Almanya Bundesliga",
       "home": "Bayer Leverkusen (W)",
       "away": "Eintracht Frankfurt (W)",
-      "time": "15:00",
+      "time": "15:01",
       "date": "17.10.2026",
-      "odds": "MS1: 2.95 | X: 3.50 | MS2: 1.97"
+      "odds": "MS1: 1.65 | X: 3.20 | MS2: 5.10"
     },
     {
       "league": "Almanya Bundesliga",
@@ -24,7 +16,7 @@
       "away": "Borussia Dortmund",
       "time": "16:30",
       "date": "17.10.2026",
-      "odds": "MS1: 5.20 | X: 4.30 | MS2: 1.55"
+      "odds": "MS1: 6.10 | X: 4.50 | MS2: 1.45"
     },
     {
       "league": "Almanya Bundesliga",
@@ -32,7 +24,7 @@
       "away": "VfB Stuttgart",
       "time": "16:30",
       "date": "17.10.2026",
-      "odds": "MS1: 3.80 | X: 4.00 | MS2: 1.78"
+      "odds": "MS1: 3.85 | X: 4.10 | MS2: 1.76"
     },
     {
       "league": "Almanya Bundesliga",
@@ -40,7 +32,7 @@
       "away": "Mainz 05",
       "time": "16:30",
       "date": "17.10.2026",
-      "odds": "MS1: 2.88 | X: 3.60 | MS2: 2.23"
+      "odds": "MS1: 2.90 | X: 3.55 | MS2: 2.25"
     },
     {
       "league": "Almanya Bundesliga",
@@ -48,7 +40,7 @@
       "away": "SC Paderborn 07",
       "time": "16:30",
       "date": "17.10.2026",
-      "odds": "MS1: 1.75 | X: 3.95 | MS2: 4.00"
+      "odds": "MS1: 1.71 | X: 4.10 | MS2: 4.20"
     },
     {
       "league": "Almanya Bundesliga",
@@ -56,7 +48,7 @@
       "away": "FC Augsburg",
       "time": "16:30",
       "date": "17.10.2026",
-      "odds": "MS1: 2.38 | X: 3.75 | MS2: 2.55"
+      "odds": "MS1: 2.43 | X: 3.70 | MS2: 2.55"
     },
     {
       "league": "Almanya Bundesliga",
@@ -96,7 +88,7 @@
       "away": "TSG Hoffenheim",
       "time": "18:30",
       "date": "18.10.2026",
-      "odds": "MS1: 3.05 | X: 4.10 | MS2: 2.00"
+      "odds": "MS1: 3.10 | X: 4.10 | MS2: 2.00"
     },
     {
       "league": "Almanya Bundesliga",
