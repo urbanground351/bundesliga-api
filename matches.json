@@ -1,62 +1,14 @@
 {
-  "last_updated": "2026-10-17T13:12:24.522469",
+  "last_updated": "2026-10-17T16:27:06.804415",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Bayer Leverkusen (W)",
-      "away": "Eintracht Frankfurt (W)",
-      "time": "15:01",
-      "date": "17.10.2026",
-      "odds": "MS1: 1.65 | X: 3.20 | MS2: 5.10"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "1. FC Union Berlin",
-      "away": "Borussia Dortmund",
-      "time": "16:30",
-      "date": "17.10.2026",
-      "odds": "MS1: 6.10 | X: 4.50 | MS2: 1.45"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Hamburger SV",
-      "away": "VfB Stuttgart",
-      "time": "16:30",
-      "date": "17.10.2026",
-      "odds": "MS1: 3.85 | X: 4.10 | MS2: 1.76"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "FC Schalke 04",
-      "away": "Mainz 05",
-      "time": "16:30",
-      "date": "17.10.2026",
-      "odds": "MS1: 2.90 | X: 3.55 | MS2: 2.25"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Werder Bremen",
-      "away": "SC Paderborn 07",
-      "time": "16:30",
-      "date": "17.10.2026",
-      "odds": "MS1: 1.71 | X: 4.10 | MS2: 4.20"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Elversberg",
-      "away": "FC Augsburg",
-      "time": "16:30",
-      "date": "17.10.2026",
-      "odds": "MS1: 2.43 | X: 3.70 | MS2: 2.55"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "Bayern Munich",
       "away": "RB Leipzig",
       "time": "19:30",
       "date": "17.10.2026",
-      "odds": "MS1: 1.18 | X: 8.00 | MS2: 11.00"
+      "odds": "MS1: 1.19 | X: 7.50 | MS2: 10.50"
     },
     {
       "league": "Almanya Bundesliga",
@@ -88,7 +40,7 @@
       "away": "TSG Hoffenheim",
       "time": "18:30",
       "date": "18.10.2026",
-      "odds": "MS1: 3.10 | X: 4.10 | MS2: 2.00"
+      "odds": "MS1: 3.10 | X: 4.10 | MS2: 2.02"
     },
     {
       "league": "Almanya Bundesliga",
@@ -104,7 +56,7 @@
       "away": "VfB Stuttgart (W)",
       "time": "19:00",
       "date": "19.10.2026",
-      "odds": "MS1: 1.07 | X: 8.00 | MS2: 15.00"
+      "odds": "MS1: 1.05 | X: 9.00 | MS2: 16.00"
     },
     {
       "league": "Almanya Bundesliga",
