@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T05:34:54.602679",
+  "last_updated": "2026-10-17T09:38:59.234113",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -40,7 +40,7 @@
       "away": "Mainz 05",
       "time": "16:30",
       "date": "17.10.2026",
-      "odds": "MS1: 3.00 | X: 3.60 | MS2: 2.18"
+      "odds": "MS1: 2.88 | X: 3.60 | MS2: 2.23"
     },
     {
       "league": "Almanya Bundesliga",
@@ -48,7 +48,7 @@
       "away": "SC Paderborn 07",
       "time": "16:30",
       "date": "17.10.2026",
-      "odds": "MS1: 1.75 | X: 4.00 | MS2: 3.95"
+      "odds": "MS1: 1.75 | X: 3.95 | MS2: 4.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -56,7 +56,7 @@
       "away": "FC Augsburg",
       "time": "16:30",
       "date": "17.10.2026",
-      "odds": "MS1: 2.38 | X: 3.80 | MS2: 2.55"
+      "odds": "MS1: 2.38 | X: 3.75 | MS2: 2.55"
     },
     {
       "league": "Almanya Bundesliga",
@@ -80,7 +80,7 @@
       "away": "SC Freiburg",
       "time": "16:30",
       "date": "18.10.2026",
-      "odds": "MS1: 1.68 | X: 4.10 | MS2: 4.30"
+      "odds": "MS1: 1.67 | X: 4.10 | MS2: 4.30"
     },
     {
       "league": "Almanya Bundesliga",
@@ -112,7 +112,7 @@
       "away": "VfB Stuttgart (W)",
       "time": "19:00",
       "date": "19.10.2026",
-      "odds": "MS1: 1.05 | X: 9.00 | MS2: 16.00"
+      "odds": "MS1: 1.07 | X: 8.00 | MS2: 15.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -176,7 +176,7 @@
       "away": "Bayer Leverkusen",
       "time": "17:30",
       "date": "25.10.2026",
-      "odds": "MS1: 2.45 | X: 3.95 | MS2: 2.43"
+      "odds": "MS1: 2.48 | X: 3.85 | MS2: 2.45"
     },
     {
       "league": "Almanya Bundesliga",
@@ -184,7 +184,7 @@
       "away": "Bayern Munich",
       "time": "19:30",
       "date": "25.10.2026",
-      "odds": "MS1: 5.75 | X: 5.10 | MS2: 1.41"
+      "odds": "MS1: 6.00 | X: 5.25 | MS2: 1.40"
     }
   ]
 }
