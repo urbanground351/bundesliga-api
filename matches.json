@@ -1,23 +1,7 @@
 {
-  "last_updated": "2026-10-18T16:52:30.305321",
+  "last_updated": "2026-10-18T19:07:28.885971",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Borussia Mönchengladbach",
-      "away": "TSG Hoffenheim",
-      "time": "18:31",
-      "date": "18.10.2026",
-      "odds": "MS1: 10.50 | X: 4.10 | MS2: 1.35"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "1. FSV Mainz 05 (W)",
-      "away": "VfL Wolfsburg (W)",
-      "time": "19:30",
-      "date": "18.10.2026",
-      "odds": "MS1: 15.00 | X: 9.00 | MS2: 1.08"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "Bayern Munich (W)",
