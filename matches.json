@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T17:20:23.848099",
+  "last_updated": "2026-10-20T20:43:24.426494",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -36,19 +36,19 @@
     },
     {
       "league": "Almanya Bundesliga",
-      "home": "FC Augsburg",
-      "away": "1. FC Union Berlin",
-      "time": "16:30",
-      "date": "24.10.2026",
-      "odds": "MS1: 1.77 | X: 3.95 | MS2: 3.95"
-    },
-    {
-      "league": "Almanya Bundesliga",
       "home": "RB Leipzig",
       "away": "Elversberg",
       "time": "16:30",
       "date": "24.10.2026",
       "odds": "MS1: 1.35 | X: 5.40 | MS2: 7.00"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "FC Augsburg",
+      "away": "1. FC Union Berlin",
+      "time": "16:30",
+      "date": "24.10.2026",
+      "odds": "MS1: 1.77 | X: 3.95 | MS2: 3.95"
     },
     {
       "league": "Almanya Bundesliga",
@@ -73,6 +73,14 @@
       "time": "19:30",
       "date": "25.10.2026",
       "odds": "MS1: 6.50 | X: 5.60 | MS2: 1.35"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Elversberg",
+      "away": "Mainz 05",
+      "time": "22:30",
+      "date": "30.10.2026",
+      "odds": "MS1: 3.05 | X: 3.60 | MS2: 2.12"
     }
   ]
 }
