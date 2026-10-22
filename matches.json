@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T07:27:53.068885",
+  "last_updated": "2026-10-22T13:08:17.668264",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -32,7 +32,7 @@
       "away": "FC Schalke 04",
       "time": "16:30",
       "date": "24.10.2026",
-      "odds": "MS1: 1.93 | X: 3.80 | MS2: 3.45"
+      "odds": "MS1: 2.00 | X: 3.70 | MS2: 3.35"
     },
     {
       "league": "Almanya Bundesliga",
@@ -40,7 +40,7 @@
       "away": "Werder Bremen",
       "time": "16:30",
       "date": "24.10.2026",
-      "odds": "MS1: 1.70 | X: 3.95 | MS2: 4.30"
+      "odds": "MS1: 1.67 | X: 4.00 | MS2: 4.50"
     },
     {
       "league": "Almanya Bundesliga",
@@ -48,7 +48,7 @@
       "away": "Hamburger SV",
       "time": "16:30",
       "date": "24.10.2026",
-      "odds": "MS1: 2.23 | X: 3.65 | MS2: 2.88"
+      "odds": "MS1: 2.20 | X: 3.65 | MS2: 2.88"
     },
     {
       "league": "Almanya Bundesliga",
@@ -56,7 +56,7 @@
       "away": "Elversberg",
       "time": "16:30",
       "date": "24.10.2026",
-      "odds": "MS1: 1.37 | X: 5.30 | MS2: 6.75"
+      "odds": "MS1: 1.38 | X: 5.30 | MS2: 6.25"
     },
     {
       "league": "Almanya Bundesliga",
@@ -64,7 +64,7 @@
       "away": "1. FC Union Berlin",
       "time": "16:30",
       "date": "24.10.2026",
-      "odds": "MS1: 1.77 | X: 3.95 | MS2: 3.95"
+      "odds": "MS1: 1.77 | X: 3.90 | MS2: 4.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -73,6 +73,14 @@
       "time": "19:30",
       "date": "24.10.2026",
       "odds": "MS1: 1.45 | X: 4.80 | MS2: 5.80"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "TSG 1899 Hoffenheim (W)",
+      "away": "1. FSV Mainz 05 (W)",
+      "time": "15:00",
+      "date": "25.10.2026",
+      "odds": "MS1: 1.15 | X: 6.40 | MS2: 10.50"
     },
     {
       "league": "Almanya Bundesliga",
@@ -88,7 +96,7 @@
       "away": "Bayern Munich",
       "time": "19:30",
       "date": "25.10.2026",
-      "odds": "MS1: 6.75 | X: 5.40 | MS2: 1.36"
+      "odds": "MS1: 6.25 | X: 5.30 | MS2: 1.38"
     },
     {
       "league": "Almanya Bundesliga",
@@ -112,7 +120,7 @@
       "away": "SC Paderborn 07",
       "time": "17:30",
       "date": "31.10.2026",
-      "odds": "MS1: 1.77 | X: 4.10 | MS2: 3.85"
+      "odds": "MS1: 1.78 | X: 4.00 | MS2: 3.80"
     },
     {
       "league": "Almanya Bundesliga",
@@ -144,7 +152,7 @@
       "away": "Borussia Dortmund",
       "time": "20:30",
       "date": "31.10.2026",
-      "odds": "MS1: 1.28 | X: 6.10 | MS2: 8.00"
+      "odds": "MS1: 1.32 | X: 5.80 | MS2: 7.00"
     }
   ]
 }
