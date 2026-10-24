@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-10-24T16:41:40.140041",
+  "last_updated": "2026-10-24T19:02:30.853953",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Borussia Dortmund",
-      "away": "Eintracht Frankfurt",
-      "time": "19:30",
-      "date": "24.10.2026",
-      "odds": "MS1: 1.37 | X: 5.00 | MS2: 7.00"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "TSG 1899 Hoffenheim (W)",
@@ -112,7 +104,7 @@
       "away": "Borussia Dortmund",
       "time": "20:30",
       "date": "31.10.2026",
-      "odds": "MS1: 1.32 | X: 5.80 | MS2: 7.00"
+      "odds": "MS1: 1.32 | X: 5.80 | MS2: 7.50"
     },
     {
       "league": "Almanya Bundesliga",
@@ -120,7 +112,7 @@
       "away": "1. FC Köln",
       "time": "17:30",
       "date": "01.11.2026",
-      "odds": "MS1: 2.63 | X: 3.60 | MS2: 2.43"
+      "odds": "MS1: 2.63 | X: 3.65 | MS2: 2.40"
     },
     {
       "league": "Almanya Bundesliga",
