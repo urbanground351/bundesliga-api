@@ -1,38 +1,14 @@
 {
-  "last_updated": "2026-10-25T16:33:12.870729",
+  "last_updated": "2026-10-25T19:13:49.711892",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "1. FC Nürnberg (W)",
-      "away": "Bayer Leverkusen (W)",
-      "time": "18:00",
-      "date": "25.10.2026",
-      "odds": "MS1: 1.50 | X: 3.00 | MS2: 8.50"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Hamburger SV (W)",
-      "away": "1. FC Union Berlin (W)",
-      "time": "19:00",
-      "date": "25.10.2026",
-      "odds": "MS1: 1.48 | X: 4.10 | MS2: 5.10"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "SC Freiburg",
-      "away": "Bayern Munich",
-      "time": "19:30",
-      "date": "25.10.2026",
-      "odds": "MS1: 0.00 | X: 0.00 | MS2: 0.00"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "Elversberg",
       "away": "Mainz 05",
       "time": "22:30",
       "date": "30.10.2026",
-      "odds": "MS1: 3.15 | X: 3.65 | MS2: 2.08"
+      "odds": "MS1: 3.15 | X: 3.70 | MS2: 2.07"
     },
     {
       "league": "Almanya Bundesliga",
@@ -72,7 +48,7 @@
       "away": "SC Freiburg",
       "time": "17:30",
       "date": "31.10.2026",
-      "odds": "MS1: 2.90 | X: 3.85 | MS2: 2.14"
+      "odds": "MS1: 2.90 | X: 3.85 | MS2: 2.12"
     },
     {
       "league": "Almanya Bundesliga",
