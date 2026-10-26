@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T07:02:05.239887",
+  "last_updated": "2026-10-26T14:08:53.171164",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -24,7 +24,7 @@
       "away": "SC Paderborn 07",
       "time": "17:30",
       "date": "31.10.2026",
-      "odds": "MS1: 1.76 | X: 4.10 | MS2: 3.85"
+      "odds": "MS1: 1.83 | X: 4.00 | MS2: 3.65"
     },
     {
       "league": "Almanya Bundesliga",
@@ -32,7 +32,7 @@
       "away": "RB Leipzig",
       "time": "17:30",
       "date": "31.10.2026",
-      "odds": "MS1: 3.60 | X: 4.00 | MS2: 1.83"
+      "odds": "MS1: 3.60 | X: 3.95 | MS2: 1.84"
     },
     {
       "league": "Almanya Bundesliga",
@@ -40,7 +40,7 @@
       "away": "TSG Hoffenheim",
       "time": "17:30",
       "date": "31.10.2026",
-      "odds": "MS1: 3.05 | X: 3.90 | MS2: 2.04"
+      "odds": "MS1: 2.95 | X: 3.90 | MS2: 2.10"
     },
     {
       "league": "Almanya Bundesliga",
@@ -72,7 +72,7 @@
       "away": "Hamburger SV",
       "time": "19:30",
       "date": "01.11.2026",
-      "odds": "MS1: 1.57 | X: 4.50 | MS2: 4.75"
+      "odds": "MS1: 1.58 | X: 4.40 | MS2: 4.70"
     }
   ]
 }
