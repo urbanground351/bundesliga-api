@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T12:50:31.854670",
+  "last_updated": "2026-10-29T18:41:04.797951",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "TSG 1899 Hoffenheim (W)",
       "time": "20:00",
       "date": "29.10.2026",
-      "odds": "MS1: 2.00 | X: 3.40 | MS2: 3.05"
+      "odds": "Oran Yok"
     },
     {
       "league": "Almanya Bundesliga",
@@ -16,7 +16,7 @@
       "away": "Mainz 05",
       "time": "22:30",
       "date": "30.10.2026",
-      "odds": "MS1: 3.15 | X: 3.75 | MS2: 2.05"
+      "odds": "MS1: 3.15 | X: 3.75 | MS2: 2.04"
     },
     {
       "league": "Almanya Bundesliga",
@@ -129,6 +129,30 @@
       "time": "20:30",
       "date": "07.11.2026",
       "odds": "MS1: 1.43 | X: 4.90 | MS2: 5.80"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Köln",
+      "away": "Bayer Leverkusen",
+      "time": "17:30",
+      "date": "08.11.2026",
+      "odds": "MS1: 4.35 | X: 4.30 | MS2: 1.64"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "SC Freiburg",
+      "away": "1. FC Union Berlin",
+      "time": "19:30",
+      "date": "08.11.2026",
+      "odds": "MS1: 1.43 | X: 4.70 | MS2: 6.25"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "TSG Hoffenheim",
+      "away": "FC Schalke 04",
+      "time": "21:30",
+      "date": "08.11.2026",
+      "odds": "MS1: 1.58 | X: 4.40 | MS2: 4.70"
     }
   ]
 }
