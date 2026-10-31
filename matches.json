@@ -1,54 +1,14 @@
 {
-  "last_updated": "2026-10-31T15:09:43.178145",
+  "last_updated": "2026-10-31T19:16:31.569567",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
       "league": "Almanya Bundesliga",
-      "home": "Bayer Leverkusen",
-      "away": "VfB Stuttgart",
-      "time": "17:30",
-      "date": "31.10.2026",
-      "odds": "MS1: 0.00 | X: 0.00 | MS2: 0.00"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Borussia Mönchengladbach",
-      "away": "SC Paderborn 07",
-      "time": "17:30",
-      "date": "31.10.2026",
-      "odds": "MS1: 2.48 | X: 2.70 | MS2: 3.25"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "FC Schalke 04",
-      "away": "RB Leipzig",
-      "time": "17:30",
-      "date": "31.10.2026",
-      "odds": "MS1: 9.50 | X: 4.60 | MS2: 1.32"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Werder Bremen",
-      "away": "TSG Hoffenheim",
-      "time": "17:30",
-      "date": "31.10.2026",
-      "odds": "MS1: 2.88 | X: 3.05 | MS2: 2.45"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "FC Augsburg",
-      "away": "SC Freiburg",
-      "time": "17:30",
-      "date": "31.10.2026",
-      "odds": "MS1: 1.68 | X: 3.40 | MS2: 5.20"
-    },
-    {
-      "league": "Almanya Bundesliga",
       "home": "Bayern Munich",
       "away": "Borussia Dortmund",
-      "time": "20:30",
+      "time": "20:31",
       "date": "31.10.2026",
-      "odds": "MS1: 1.30 | X: 5.60 | MS2: 8.00"
+      "odds": "MS1: 1.09 | X: 8.00 | MS2: 51.00"
     },
     {
       "league": "Almanya Bundesliga",
