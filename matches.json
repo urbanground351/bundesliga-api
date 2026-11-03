@@ -1,14 +1,30 @@
 {
-  "last_updated": "2026-11-03T16:33:05.869349",
+  "last_updated": "2026-11-03T21:56:57.532289",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Bayern Munich (W)",
+      "away": "Werder Bremen (W)",
+      "time": "20:30",
+      "date": "06.11.2026",
+      "odds": "MS1: 1.12 | X: 6.75 | MS2: 12.50"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Eintracht Frankfurt (W)",
+      "away": "VfL Wolfsburg (W)",
+      "time": "20:30",
+      "date": "06.11.2026",
+      "odds": "MS1: 2.60 | X: 3.60 | MS2: 2.20"
+    },
     {
       "league": "Almanya Bundesliga",
       "home": "Hamburger SV",
       "away": "Borussia Mönchengladbach",
       "time": "22:30",
       "date": "06.11.2026",
-      "odds": "MS1: 2.28 | X: 3.60 | MS2: 2.80"
+      "odds": "MS1: 2.28 | X: 3.65 | MS2: 2.75"
     },
     {
       "league": "Almanya Bundesliga",
@@ -32,7 +48,7 @@
       "away": "Bayern Munich",
       "time": "17:30",
       "date": "07.11.2026",
-      "odds": "MS1: 5.60 | X: 5.60 | MS2: 1.40"
+      "odds": "MS1: 5.75 | X: 5.50 | MS2: 1.40"
     },
     {
       "league": "Almanya Bundesliga",
@@ -48,7 +64,7 @@
       "away": "Werder Bremen",
       "time": "20:30",
       "date": "07.11.2026",
-      "odds": "MS1: 1.49 | X: 4.75 | MS2: 5.30"
+      "odds": "MS1: 1.52 | X: 4.60 | MS2: 5.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -64,7 +80,7 @@
       "away": "1. FC Union Berlin",
       "time": "19:30",
       "date": "08.11.2026",
-      "odds": "MS1: 1.50 | X: 4.30 | MS2: 5.75"
+      "odds": "MS1: 1.52 | X: 4.25 | MS2: 5.75"
     },
     {
       "league": "Almanya Bundesliga",
