@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T09:52:36.416139",
+  "last_updated": "2026-11-05T17:46:30.618154",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -16,7 +16,7 @@
       "away": "VfL Wolfsburg (W)",
       "time": "20:30",
       "date": "06.11.2026",
-      "odds": "MS1: 2.60 | X: 3.60 | MS2: 2.20"
+      "odds": "MS1: 2.85 | X: 3.60 | MS2: 2.02"
     },
     {
       "league": "Almanya Bundesliga",
@@ -24,7 +24,7 @@
       "away": "Borussia Mönchengladbach",
       "time": "22:30",
       "date": "06.11.2026",
-      "odds": "MS1: 2.28 | X: 3.65 | MS2: 2.80"
+      "odds": "MS1: 2.28 | X: 3.60 | MS2: 2.80"
     },
     {
       "league": "Almanya Bundesliga",
@@ -48,7 +48,7 @@
       "away": "Eintracht Frankfurt",
       "time": "17:30",
       "date": "07.11.2026",
-      "odds": "MS1: 2.85 | X: 3.75 | MS2: 2.20"
+      "odds": "MS1: 2.95 | X: 3.75 | MS2: 2.15"
     },
     {
       "league": "Almanya Bundesliga",
@@ -64,7 +64,7 @@
       "away": "Bayern Munich",
       "time": "17:30",
       "date": "07.11.2026",
-      "odds": "MS1: 6.50 | X: 5.80 | MS2: 1.33"
+      "odds": "MS1: 6.50 | X: 5.75 | MS2: 1.34"
     },
     {
       "league": "Almanya Bundesliga",
@@ -72,7 +72,7 @@
       "away": "FC Augsburg",
       "time": "17:30",
       "date": "07.11.2026",
-      "odds": "MS1: 1.48 | X: 5.00 | MS2: 5.20"
+      "odds": "MS1: 1.45 | X: 5.10 | MS2: 5.40"
     },
     {
       "league": "Almanya Bundesliga",
@@ -80,7 +80,15 @@
       "away": "Werder Bremen",
       "time": "20:30",
       "date": "07.11.2026",
-      "odds": "MS1: 1.56 | X: 4.50 | MS2: 4.80"
+      "odds": "MS1: 1.60 | X: 4.40 | MS2: 4.60"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Union Berlin (W)",
+      "away": "TSG 1899 Hoffenheim (W)",
+      "time": "16:00",
+      "date": "08.11.2026",
+      "odds": "MS1: 1.90 | X: 3.50 | MS2: 3.10"
     },
     {
       "league": "Almanya Bundesliga",
@@ -92,11 +100,19 @@
     },
     {
       "league": "Almanya Bundesliga",
+      "home": "1. FSV Mainz 05 (W)",
+      "away": "VfB Stuttgart (W)",
+      "time": "18:00",
+      "date": "08.11.2026",
+      "odds": "MS1: 3.25 | X: 3.60 | MS2: 1.88"
+    },
+    {
+      "league": "Almanya Bundesliga",
       "home": "SC Freiburg",
       "away": "1. FC Union Berlin",
       "time": "19:30",
       "date": "08.11.2026",
-      "odds": "MS1: 1.50 | X: 4.30 | MS2: 5.80"
+      "odds": "MS1: 1.50 | X: 4.35 | MS2: 5.75"
     },
     {
       "league": "Almanya Bundesliga",
