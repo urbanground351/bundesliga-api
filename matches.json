@@ -1,47 +1,7 @@
 {
-  "last_updated": "2026-11-07T15:33:14.540628",
+  "last_updated": "2026-11-07T19:35:27.170241",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "SC Paderborn 07",
-      "away": "Eintracht Frankfurt",
-      "time": "17:30",
-      "date": "07.11.2026",
-      "odds": "MS1: 3.20 | X: 2.70 | MS2: 2.50"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Borussia Dortmund",
-      "away": "Elversberg",
-      "time": "17:30",
-      "date": "07.11.2026",
-      "odds": "MS1: 1.53 | X: 3.50 | MS2: 7.00"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Mainz 05",
-      "away": "Bayern Munich",
-      "time": "17:30",
-      "date": "07.11.2026",
-      "odds": "MS1: 19.00 | X: 8.50 | MS2: 1.11"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "RB Leipzig",
-      "away": "FC Augsburg",
-      "time": "17:30",
-      "date": "07.11.2026",
-      "odds": "MS1: 1.04 | X: 15.00 | MS2: 35.00"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "VfB Stuttgart",
-      "away": "Werder Bremen",
-      "time": "20:30",
-      "date": "07.11.2026",
-      "odds": "MS1: 1.86 | X: 4.00 | MS2: 3.50"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "1. FC Union Berlin (W)",
@@ -80,7 +40,7 @@
       "away": "FC Schalke 04",
       "time": "21:30",
       "date": "08.11.2026",
-      "odds": "MS1: 1.62 | X: 4.20 | MS2: 4.60"
+      "odds": "MS1: 1.63 | X: 4.20 | MS2: 4.50"
     }
   ]
 }
