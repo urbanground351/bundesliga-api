@@ -1,38 +1,14 @@
 {
-  "last_updated": "2026-11-08T15:57:40.914108",
+  "last_updated": "2026-11-08T20:19:13.629856",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "1. FC Köln",
-      "away": "Bayer Leverkusen",
-      "time": "17:30",
-      "date": "08.11.2026",
-      "odds": "MS1: 23.00 | X: 5.60 | MS2: 1.17"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "1. FSV Mainz 05 (W)",
-      "away": "VfB Stuttgart (W)",
-      "time": "18:00",
-      "date": "08.11.2026",
-      "odds": "MS1: 8.00 | X: 4.10 | MS2: 1.34"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "SC Freiburg",
-      "away": "1. FC Union Berlin",
-      "time": "19:30",
-      "date": "08.11.2026",
-      "odds": "MS1: 1.42 | X: 4.60 | MS2: 6.75"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "TSG Hoffenheim",
       "away": "FC Schalke 04",
       "time": "21:30",
       "date": "08.11.2026",
-      "odds": "MS1: 1.60 | X: 4.10 | MS2: 4.90"
+      "odds": "MS1: 1.08 | X: 8.00 | MS2: 81.00"
     }
   ]
 }
