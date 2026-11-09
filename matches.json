@@ -1,14 +1,86 @@
 {
-  "last_updated": "2026-11-09T03:03:45.342825",
+  "last_updated": "2026-11-09T11:21:31.665659",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
       "league": "Almanya Bundesliga",
-      "home": "Bundesliga 2026/2027",
-      "away": "Deplasman",
-      "time": "13:00",
-      "date": "26.05.2027",
-      "odds": "Oran Yok"
+      "home": "1. FC Köln (W)",
+      "away": "RB Leipzig (W)",
+      "time": "20:00",
+      "date": "09.11.2026",
+      "odds": "MS1: 1.75 | X: 3.70 | MS2: 3.55"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Bayern Munich",
+      "away": "1. FC Köln",
+      "time": "22:30",
+      "date": "20.11.2026",
+      "odds": "MS1: 1.09 | X: 10.00 | MS2: 19.00"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Elversberg",
+      "away": "SC Freiburg",
+      "time": "17:30",
+      "date": "21.11.2026",
+      "odds": "MS1: 3.35 | X: 3.70 | MS2: 1.98"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Borussia Mönchengladbach",
+      "away": "Borussia Dortmund",
+      "time": "17:30",
+      "date": "21.11.2026",
+      "odds": "MS1: 4.80 | X: 4.20 | MS2: 1.60"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Eintracht Frankfurt",
+      "away": "TSG Hoffenheim",
+      "time": "17:30",
+      "date": "21.11.2026",
+      "odds": "MS1: 2.33 | X: 3.90 | MS2: 2.60"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Union Berlin",
+      "away": "RB Leipzig",
+      "time": "17:30",
+      "date": "21.11.2026",
+      "odds": "MS1: 5.20 | X: 4.30 | MS2: 1.55"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Bayer Leverkusen",
+      "away": "SC Paderborn 07",
+      "time": "17:30",
+      "date": "21.11.2026",
+      "odds": "MS1: 1.26 | X: 5.80 | MS2: 9.50"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "FC Schalke 04",
+      "away": "VfB Stuttgart",
+      "time": "20:30",
+      "date": "21.11.2026",
+      "odds": "MS1: 3.85 | X: 3.95 | MS2: 1.80"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "FC Augsburg",
+      "away": "Mainz 05",
+      "time": "17:30",
+      "date": "22.11.2026",
+      "odds": "MS1: 2.65 | X: 3.70 | MS2: 2.35"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Werder Bremen",
+      "away": "Hamburger SV",
+      "time": "19:30",
+      "date": "22.11.2026",
+      "odds": "MS1: 1.65 | X: 4.10 | MS2: 4.50"
     }
   ]
 }
