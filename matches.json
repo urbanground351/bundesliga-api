@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-10T11:51:12.817977",
+  "last_updated": "2026-11-10T18:59:11.699280",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Hamburger SV (W)",
+      "away": "1. FSV Mainz 05 (W)",
+      "time": "20:30",
+      "date": "13.11.2026",
+      "odds": "MS1: 1.62 | X: 3.60 | MS2: 4.40"
+    },
     {
       "league": "Almanya Bundesliga",
       "home": "Bayern Munich",
