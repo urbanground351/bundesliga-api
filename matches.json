@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T09:29:06.222086",
+  "last_updated": "2026-11-12T17:42:49.355233",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "1. FSV Mainz 05 (W)",
       "time": "20:30",
       "date": "13.11.2026",
-      "odds": "MS1: 1.60 | X: 3.65 | MS2: 4.40"
+      "odds": "MS1: 1.56 | X: 3.80 | MS2: 4.60"
     },
     {
       "league": "Almanya Bundesliga",
@@ -32,7 +32,15 @@
       "away": "Bayern Munich (W)",
       "time": "19:55",
       "date": "14.11.2026",
-      "odds": "MS1: 3.80 | X: 3.65 | MS2: 1.70"
+      "odds": "MS1: 3.90 | X: 3.80 | MS2: 1.66"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Nürnberg (W)",
+      "away": "1. FC Köln (W)",
+      "time": "18:00",
+      "date": "15.11.2026",
+      "odds": "MS1: 3.95 | X: 3.65 | MS2: 1.68"
     },
     {
       "league": "Almanya Bundesliga",
@@ -104,7 +112,7 @@
       "away": "Hamburger SV",
       "time": "19:30",
       "date": "22.11.2026",
-      "odds": "MS1: 1.65 | X: 4.10 | MS2: 4.50"
+      "odds": "MS1: 1.65 | X: 4.00 | MS2: 4.60"
     }
   ]
 }
