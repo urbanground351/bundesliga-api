@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T10:51:01.192778",
+  "last_updated": "2026-11-13T18:13:42.211577",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "1. FSV Mainz 05 (W)",
       "time": "20:30",
       "date": "13.11.2026",
-      "odds": "MS1: 1.56 | X: 3.80 | MS2: 4.60"
+      "odds": "MS1: 0.00 | X: 25.00 | MS2: 0.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -32,7 +32,7 @@
       "away": "Bayern Munich (W)",
       "time": "19:55",
       "date": "14.11.2026",
-      "odds": "MS1: 3.90 | X: 3.80 | MS2: 1.66"
+      "odds": "MS1: 3.50 | X: 3.70 | MS2: 1.75"
     },
     {
       "league": "Almanya Bundesliga",
@@ -44,11 +44,19 @@
     },
     {
       "league": "Almanya Bundesliga",
+      "home": "VfB Stuttgart (W)",
+      "away": "Bayer Leverkusen (W)",
+      "time": "20:00",
+      "date": "16.11.2026",
+      "odds": "MS1: 4.50 | X: 3.95 | MS2: 1.54"
+    },
+    {
+      "league": "Almanya Bundesliga",
       "home": "Bayern Munich",
       "away": "1. FC Köln",
       "time": "22:30",
       "date": "20.11.2026",
-      "odds": "MS1: 1.08 | X: 11.00 | MS2: 20.00"
+      "odds": "MS1: 1.08 | X: 11.50 | MS2: 20.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -88,7 +96,7 @@
       "away": "Borussia Dortmund",
       "time": "17:30",
       "date": "21.11.2026",
-      "odds": "MS1: 4.80 | X: 4.20 | MS2: 1.60"
+      "odds": "MS1: 4.90 | X: 4.20 | MS2: 1.60"
     },
     {
       "league": "Almanya Bundesliga",
@@ -104,7 +112,7 @@
       "away": "Mainz 05",
       "time": "17:30",
       "date": "22.11.2026",
-      "odds": "MS1: 2.65 | X: 3.70 | MS2: 2.35"
+      "odds": "MS1: 2.65 | X: 3.75 | MS2: 2.32"
     },
     {
       "league": "Almanya Bundesliga",
