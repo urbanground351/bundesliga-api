@@ -1,23 +1,7 @@
 {
-  "last_updated": "2026-11-14T10:52:16.286919",
+  "last_updated": "2026-11-14T16:47:30.306813",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "TSG 1899 Hoffenheim (W)",
-      "away": "SC Freiburg (W)",
-      "time": "14:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 1.74 | X: 3.65 | MS2: 3.65"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Werder Bremen (W)",
-      "away": "1. FC Union Berlin (W)",
-      "time": "16:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 1.90 | X: 3.60 | MS2: 3.15"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "VfL Wolfsburg (W)",
