@@ -1,23 +1,7 @@
 {
-  "last_updated": "2026-11-15T14:58:17.453213",
+  "last_updated": "2026-11-15T20:16:19.488722",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "RB Leipzig (W)",
-      "away": "Eintracht Frankfurt (W)",
-      "time": "18:00",
-      "date": "15.11.2026",
-      "odds": "MS1: 5.40 | X: 4.35 | MS2: 1.41"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "1. FC Nürnberg (W)",
-      "away": "1. FC Köln (W)",
-      "time": "18:00",
-      "date": "15.11.2026",
-      "odds": "MS1: 3.95 | X: 3.65 | MS2: 1.68"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "VfB Stuttgart (W)",
@@ -32,7 +16,7 @@
       "away": "1. FC Köln",
       "time": "22:30",
       "date": "20.11.2026",
-      "odds": "MS1: 1.08 | X: 11.50 | MS2: 20.00"
+      "odds": "MS1: 1.07 | X: 11.50 | MS2: 21.00"
     },
     {
       "league": "Almanya Bundesliga",
