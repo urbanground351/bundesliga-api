@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T06:09:11.164262",
+  "last_updated": "2026-11-16T15:42:03.292781",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -16,7 +16,7 @@
       "away": "1. FC Köln",
       "time": "22:30",
       "date": "20.11.2026",
-      "odds": "MS1: 1.07 | X: 11.50 | MS2: 21.00"
+      "odds": "MS1: 1.08 | X: 11.50 | MS2: 20.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -24,7 +24,7 @@
       "away": "TSG Hoffenheim",
       "time": "17:30",
       "date": "21.11.2026",
-      "odds": "MS1: 2.33 | X: 3.85 | MS2: 2.63"
+      "odds": "MS1: 2.30 | X: 3.85 | MS2: 2.63"
     },
     {
       "league": "Almanya Bundesliga",
@@ -40,7 +40,7 @@
       "away": "SC Paderborn 07",
       "time": "17:30",
       "date": "21.11.2026",
-      "odds": "MS1: 1.26 | X: 5.80 | MS2: 9.50"
+      "odds": "MS1: 1.25 | X: 6.25 | MS2: 9.50"
     },
     {
       "league": "Almanya Bundesliga",
@@ -56,7 +56,7 @@
       "away": "Borussia Dortmund",
       "time": "17:30",
       "date": "21.11.2026",
-      "odds": "MS1: 4.90 | X: 4.20 | MS2: 1.58"
+      "odds": "MS1: 4.80 | X: 4.25 | MS2: 1.58"
     },
     {
       "league": "Almanya Bundesliga",
@@ -64,7 +64,7 @@
       "away": "VfB Stuttgart",
       "time": "20:30",
       "date": "21.11.2026",
-      "odds": "MS1: 3.70 | X: 4.00 | MS2: 1.81"
+      "odds": "MS1: 3.80 | X: 3.95 | MS2: 1.80"
     },
     {
       "league": "Almanya Bundesliga",
@@ -72,7 +72,7 @@
       "away": "Mainz 05",
       "time": "17:30",
       "date": "22.11.2026",
-      "odds": "MS1: 2.65 | X: 3.75 | MS2: 2.32"
+      "odds": "MS1: 2.70 | X: 3.70 | MS2: 2.35"
     },
     {
       "league": "Almanya Bundesliga",
@@ -80,7 +80,7 @@
       "away": "Hamburger SV",
       "time": "19:30",
       "date": "22.11.2026",
-      "odds": "MS1: 1.65 | X: 4.10 | MS2: 4.60"
+      "odds": "MS1: 1.64 | X: 4.00 | MS2: 4.60"
     }
   ]
 }
