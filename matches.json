@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-11-16T15:42:03.292781",
+  "last_updated": "2026-11-16T23:51:15.954048",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "VfB Stuttgart (W)",
-      "away": "Bayer Leverkusen (W)",
-      "time": "20:00",
-      "date": "16.11.2026",
-      "odds": "MS1: 4.50 | X: 3.95 | MS2: 1.54"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "Bayern Munich",
@@ -64,7 +56,7 @@
       "away": "VfB Stuttgart",
       "time": "20:30",
       "date": "21.11.2026",
-      "odds": "MS1: 3.80 | X: 3.95 | MS2: 1.80"
+      "odds": "MS1: 3.75 | X: 3.95 | MS2: 1.81"
     },
     {
       "league": "Almanya Bundesliga",
