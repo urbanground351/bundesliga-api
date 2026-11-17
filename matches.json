@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-17T14:49:46.381424",
+  "last_updated": "2026-11-17T22:42:22.713821",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Union Berlin (W)",
+      "away": "Bayer Leverkusen (W)",
+      "time": "20:30",
+      "date": "20.11.2026",
+      "odds": "MS1: 3.00 | X: 3.55 | MS2: 1.98"
+    },
     {
       "league": "Almanya Bundesliga",
       "home": "Bayern Munich",
@@ -73,6 +81,14 @@
       "time": "19:30",
       "date": "22.11.2026",
       "odds": "MS1: 1.65 | X: 4.10 | MS2: 4.60"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Werder Bremen",
+      "away": "Borussia Mönchengladbach",
+      "time": "22:30",
+      "date": "27.11.2026",
+      "odds": "MS1: 1.72 | X: 4.00 | MS2: 4.20"
     }
   ]
 }
