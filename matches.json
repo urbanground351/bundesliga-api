@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T03:53:23.923724",
+  "last_updated": "2026-11-18T12:33:45.727071",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -16,7 +16,15 @@
       "away": "1. FC Köln",
       "time": "22:30",
       "date": "20.11.2026",
-      "odds": "MS1: 1.08 | X: 11.50 | MS2: 20.00"
+      "odds": "MS1: 1.07 | X: 11.50 | MS2: 20.00"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Eintracht Frankfurt (W)",
+      "away": "Hamburger SV (W)",
+      "time": "14:00",
+      "date": "21.11.2026",
+      "odds": "MS1: 1.14 | X: 6.75 | MS2: 11.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -32,7 +40,7 @@
       "away": "RB Leipzig",
       "time": "17:30",
       "date": "21.11.2026",
-      "odds": "MS1: 4.70 | X: 4.10 | MS2: 1.62"
+      "odds": "MS1: 5.20 | X: 4.30 | MS2: 1.55"
     },
     {
       "league": "Almanya Bundesliga",
@@ -48,7 +56,7 @@
       "away": "SC Freiburg",
       "time": "17:30",
       "date": "21.11.2026",
-      "odds": "MS1: 3.35 | X: 3.70 | MS2: 1.98"
+      "odds": "MS1: 3.35 | X: 3.75 | MS2: 1.96"
     },
     {
       "league": "Almanya Bundesliga",
@@ -56,7 +64,7 @@
       "away": "Borussia Dortmund",
       "time": "17:30",
       "date": "21.11.2026",
-      "odds": "MS1: 4.80 | X: 4.20 | MS2: 1.60"
+      "odds": "MS1: 4.90 | X: 4.25 | MS2: 1.58"
     },
     {
       "league": "Almanya Bundesliga",
