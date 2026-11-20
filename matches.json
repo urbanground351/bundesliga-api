@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T08:35:28.351378",
+  "last_updated": "2026-11-20T17:14:39.465442",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "Bayer Leverkusen (W)",
       "time": "20:30",
       "date": "20.11.2026",
-      "odds": "MS1: 3.00 | X: 3.55 | MS2: 1.98"
+      "odds": "MS1: 3.30 | X: 3.65 | MS2: 1.83"
     },
     {
       "league": "Almanya Bundesliga",
@@ -16,7 +16,7 @@
       "away": "1. FC Köln",
       "time": "22:30",
       "date": "20.11.2026",
-      "odds": "MS1: 1.06 | X: 13.00 | MS2: 23.00"
+      "odds": "MS1: 1.06 | X: 13.00 | MS2: 21.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -40,7 +40,7 @@
       "away": "TSG Hoffenheim",
       "time": "17:30",
       "date": "21.11.2026",
-      "odds": "MS1: 2.33 | X: 3.85 | MS2: 2.60"
+      "odds": "MS1: 2.30 | X: 3.90 | MS2: 2.63"
     },
     {
       "league": "Almanya Bundesliga",
@@ -80,7 +80,7 @@
       "away": "VfB Stuttgart",
       "time": "20:30",
       "date": "21.11.2026",
-      "odds": "MS1: 3.75 | X: 3.95 | MS2: 1.82"
+      "odds": "MS1: 3.80 | X: 3.90 | MS2: 1.81"
     },
     {
       "league": "Almanya Bundesliga",
@@ -113,6 +113,14 @@
       "time": "20:30",
       "date": "22.11.2026",
       "odds": "MS1: 3.45 | X: 3.55 | MS2: 1.80"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Bayern Munich (W)",
+      "away": "TSG 1899 Hoffenheim (W)",
+      "time": "20:00",
+      "date": "23.11.2026",
+      "odds": "MS1: 1.05 | X: 9.00 | MS2: 16.00"
     },
     {
       "league": "Almanya Bundesliga",
