@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-11-23T08:52:44.758331",
+  "last_updated": "2026-11-23T20:44:59.585783",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
-    {
-      "league": "Almanya Bundesliga",
-      "home": "Bayern Munich (W)",
-      "away": "TSG 1899 Hoffenheim (W)",
-      "time": "20:00",
-      "date": "23.11.2026",
-      "odds": "MS1: 1.03 | X: 10.00 | MS2: 18.00"
-    },
     {
       "league": "Almanya Bundesliga",
       "home": "Werder Bremen",
@@ -17,6 +9,22 @@
       "time": "22:30",
       "date": "27.11.2026",
       "odds": "MS1: 1.72 | X: 4.00 | MS2: 4.10"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "FC Schalke 04",
+      "time": "17:30",
+      "date": "28.11.2026",
+      "odds": "MS1: 2.33 | X: 3.50 | MS2: 2.80"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Köln",
+      "away": "Elversberg",
+      "time": "17:30",
+      "date": "28.11.2026",
+      "odds": "MS1: 1.92 | X: 3.80 | MS2: 3.45"
     },
     {
       "league": "Almanya Bundesliga",
@@ -33,22 +41,6 @@
       "time": "17:30",
       "date": "28.11.2026",
       "odds": "MS1: 1.46 | X: 4.50 | MS2: 6.10"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "SC Paderborn 07",
-      "away": "FC Schalke 04",
-      "time": "17:30",
-      "date": "28.11.2026",
-      "odds": "MS1: 2.35 | X: 3.50 | MS2: 2.80"
-    },
-    {
-      "league": "Almanya Bundesliga",
-      "home": "1. FC Köln",
-      "away": "Elversberg",
-      "time": "17:30",
-      "date": "28.11.2026",
-      "odds": "MS1: 1.92 | X: 3.80 | MS2: 3.45"
     },
     {
       "league": "Almanya Bundesliga",
@@ -72,7 +64,7 @@
       "away": "FC Augsburg",
       "time": "19:30",
       "date": "29.11.2026",
-      "odds": "MS1: 1.63 | X: 4.40 | MS2: 4.30"
+      "odds": "MS1: 1.67 | X: 4.35 | MS2: 4.10"
     },
     {
       "league": "Almanya Bundesliga",
