@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T15:43:14.771323",
+  "last_updated": "2026-11-25T00:08:27.049822",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -56,7 +56,7 @@
       "away": "RB Leipzig",
       "time": "17:30",
       "date": "29.11.2026",
-      "odds": "MS1: 2.50 | X: 3.75 | MS2: 2.45"
+      "odds": "MS1: 2.60 | X: 3.75 | MS2: 2.38"
     },
     {
       "league": "Almanya Bundesliga",
@@ -64,7 +64,7 @@
       "away": "FC Augsburg",
       "time": "19:30",
       "date": "29.11.2026",
-      "odds": "MS1: 1.67 | X: 4.50 | MS2: 4.00"
+      "odds": "MS1: 1.68 | X: 4.40 | MS2: 4.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -73,6 +73,14 @@
       "time": "21:30",
       "date": "29.11.2026",
       "odds": "MS1: 2.06 | X: 3.75 | MS2: 3.10"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Bayern Munich",
+      "away": "SC Paderborn 07",
+      "time": "22:30",
+      "date": "04.12.2026",
+      "odds": "MS1: 1.05 | X: 13.00 | MS2: 26.00"
     }
   ]
 }
