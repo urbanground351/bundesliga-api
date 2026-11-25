@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T08:26:50.018994",
+  "last_updated": "2026-11-25T18:47:01.214613",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -24,7 +24,7 @@
       "away": "Elversberg",
       "time": "17:30",
       "date": "28.11.2026",
-      "odds": "MS1: 1.91 | X: 3.80 | MS2: 3.50"
+      "odds": "MS1: 1.92 | X: 3.80 | MS2: 3.50"
     },
     {
       "league": "Almanya Bundesliga",
@@ -32,7 +32,7 @@
       "away": "Bayern Munich",
       "time": "17:30",
       "date": "28.11.2026",
-      "odds": "MS1: 9.50 | X: 6.40 | MS2: 1.24"
+      "odds": "MS1: 9.50 | X: 6.25 | MS2: 1.25"
     },
     {
       "league": "Almanya Bundesliga",
@@ -72,7 +72,7 @@
       "away": "Bayer Leverkusen",
       "time": "21:30",
       "date": "29.11.2026",
-      "odds": "MS1: 2.06 | X: 3.75 | MS2: 3.10"
+      "odds": "MS1: 2.07 | X: 3.75 | MS2: 3.10"
     },
     {
       "league": "Almanya Bundesliga",
@@ -81,6 +81,54 @@
       "time": "22:30",
       "date": "04.12.2026",
       "odds": "MS1: 1.05 | X: 13.00 | MS2: 26.00"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "RB Leipzig",
+      "away": "Mainz 05",
+      "time": "17:30",
+      "date": "05.12.2026",
+      "odds": "MS1: 1.63 | X: 4.35 | MS2: 4.35"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Bayer Leverkusen",
+      "away": "Borussia Mönchengladbach",
+      "time": "17:30",
+      "date": "05.12.2026",
+      "odds": "MS1: 1.25 | X: 6.10 | MS2: 9.50"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "SC Freiburg",
+      "away": "TSG Hoffenheim",
+      "time": "17:30",
+      "date": "05.12.2026",
+      "odds": "MS1: 1.96 | X: 3.85 | MS2: 3.30"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "FC Augsburg",
+      "away": "1. FC Köln",
+      "time": "17:30",
+      "date": "05.12.2026",
+      "odds": "MS1: 1.98 | X: 3.90 | MS2: 3.20"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "1. FC Union Berlin",
+      "away": "Hamburger SV",
+      "time": "17:30",
+      "date": "05.12.2026",
+      "odds": "MS1: 2.30 | X: 3.40 | MS2: 2.90"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Eintracht Frankfurt",
+      "away": "Werder Bremen",
+      "time": "20:30",
+      "date": "05.12.2026",
+      "odds": "MS1: 2.05 | X: 3.85 | MS2: 3.10"
     }
   ]
 }
