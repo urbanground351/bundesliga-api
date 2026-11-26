@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T10:42:22.362139",
+  "last_updated": "2026-11-26T19:50:43.123397",
   "source": "Kambi CDN (Bundesliga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "Borussia Mönchengladbach",
       "time": "22:30",
       "date": "27.11.2026",
-      "odds": "MS1: 1.71 | X: 4.10 | MS2: 4.10"
+      "odds": "MS1: 1.71 | X: 4.00 | MS2: 4.20"
     },
     {
       "league": "Almanya Bundesliga",
@@ -16,7 +16,7 @@
       "away": "FC Schalke 04",
       "time": "17:30",
       "date": "28.11.2026",
-      "odds": "MS1: 2.35 | X: 3.45 | MS2: 2.80"
+      "odds": "MS1: 2.35 | X: 3.40 | MS2: 2.80"
     },
     {
       "league": "Almanya Bundesliga",
@@ -32,7 +32,7 @@
       "away": "Bayern Munich",
       "time": "17:30",
       "date": "28.11.2026",
-      "odds": "MS1: 9.50 | X: 6.10 | MS2: 1.25"
+      "odds": "MS1: 9.00 | X: 6.10 | MS2: 1.25"
     },
     {
       "league": "Almanya Bundesliga",
@@ -80,7 +80,7 @@
       "away": "SC Paderborn 07",
       "time": "22:30",
       "date": "04.12.2026",
-      "odds": "MS1: 1.05 | X: 13.00 | MS2: 26.00"
+      "odds": "MS1: 1.06 | X: 12.50 | MS2: 25.00"
     },
     {
       "league": "Almanya Bundesliga",
@@ -129,6 +129,22 @@
       "time": "20:30",
       "date": "05.12.2026",
       "odds": "MS1: 2.05 | X: 3.85 | MS2: 3.10"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "FC Schalke 04",
+      "away": "Borussia Dortmund",
+      "time": "17:30",
+      "date": "06.12.2026",
+      "odds": "MS1: 4.80 | X: 4.00 | MS2: 1.63"
+    },
+    {
+      "league": "Almanya Bundesliga",
+      "home": "Elversberg",
+      "away": "VfB Stuttgart",
+      "time": "19:30",
+      "date": "06.12.2026",
+      "odds": "MS1: 3.60 | X: 4.20 | MS2: 1.80"
     }
   ]
 }
